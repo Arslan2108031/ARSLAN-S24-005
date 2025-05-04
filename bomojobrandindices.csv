@@ -1,0 +1,59 @@
+# Lab 9 Task 1
+# Dataset: bomojobrandindices.csv
+# Author: Meher Ali
+
+# Step 1: Data Loading
+filename = "bomojobrandindices.csv"   # Make sure bomojobrandindices.csv is in the same folder as this script
+
+# Read CSV manually
+data = []
+with open(filename, "r", encoding="utf-8") as file:
+    header = file.readline().strip().split(",")
+    for line in file:
+        row = line.strip().split(",")
+        while len(row) < len(header):
+            row.append('')  # Fill missing columns
+        data.append(row)
+
+# Step 2: Data Exploration
+
+# 2.1 Total Rows and Columns
+total_rows = len(data)
+total_columns = len(header)
+print("Total Rows:", total_rows)
+print("Total Columns:", total_columns)
+
+# 2.2 Column Names
+print("\nColumn Names:")
+for col in header:
+    print("-", col)
+
+# 2.3 First 5 Rows
+print("\nFirst 5 Rows:")
+for i in range(min(5, total_rows)):
+    print(dict(zip(header, data[i])))
+
+# 2.4 Missing Values
+print("\nMissing Values per Column:")
+missing = {}
+for col_index, col_name in enumerate(header):
+    count_missing = 0
+    for row in data:
+        if row[col_index].strip() == '':
+            count_missing += 1
+    missing[col_name] = count_missing
+
+for col, count in missing.items():
+    print(f"{col}: {count}")
+
+# 2.5 Unique Values Example (for 'brand' column)
+if "brand" in header:
+    brand_index = header.index("brand")
+    brands = set()
+    for row in data:
+        brands.add(row[brand_index])
+
+    print("\nUnique Brands:", len(brands))
+    print("Some brands:", list(brands)[:5])
+else:
+    print("\nNo 'brand' column found in dataset.")
