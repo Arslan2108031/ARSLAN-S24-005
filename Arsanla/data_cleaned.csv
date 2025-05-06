@@ -1,0 +1,2001 @@
+Airline Name,Ticket Class,Baggage Allowance,Season,Weather Condition,Flight Price
+GoAir,Business,30kg,Spring,Stormy,12258
+GoAir,Economy,15kg,Summer,Rainy,8564
+AirAsia India,Economy,25kg,Spring,Clear,6730
+AirAsia India,Economy,30kg,Autumn,Foggy,4528
+Vistara,Economy,25kg,Spring,Foggy,4708
+Air India,Economy,20kg,Winter,Rainy,8699
+Akasa Air,Business,25kg,Winter,Stormy,10510
+Vistara,Business,30kg,Spring,Rainy,9111
+AirAsia India,Business,20kg,Summer,Stormy,14658
+AirAsia India,Economy,20kg,Spring,Snowy,4801
+IndiGo,Economy,20kg,Winter,Rainy,4406
+IndiGo,Economy,15kg,Winter,Stormy,3024
+SpiceJet,Economy,25kg,Autumn,Rainy,6627
+Vistara,Business,15kg,Summer,Windy,12359
+Akasa Air,Business,20kg,Summer,Foggy,6131
+Vistara,Business,20kg,Spring,Stormy,10301
+AirAsia India,Business,20kg,Summer,Clear,7866
+IndiGo,Business,20kg,Autumn,Windy,13230
+SpiceJet,Business,15kg,Winter,Clear,17589
+SpiceJet,Economy,15kg,Autumn,Foggy,6706
+IndiGo,Economy,25kg,Spring,Rainy,7443
+AirAsia India,Business,30kg,Spring,Rainy,14143
+GoAir,Economy,30kg,Winter,Rainy,6513
+IndiGo,Business,20kg,Spring,Windy,6991
+Vistara,Economy,25kg,Autumn,Foggy,9010
+GoAir,Business,30kg,Spring,Stormy,9045
+GoAir,Economy,20kg,Autumn,Windy,3780
+Akasa Air,Business,30kg,Spring,Windy,8928
+Vistara,Economy,15kg,Summer,Snowy,8438
+SpiceJet,Business,15kg,Spring,Clear,14877
+Vistara,Economy,15kg,Winter,Clear,7103
+Air India,Economy,20kg,Summer,Windy,6052
+GoAir,Economy,25kg,Summer,Clear,9140
+GoAir,Economy,25kg,Winter,Rainy,5151
+SpiceJet,Economy,25kg,Autumn,Clear,6966
+SpiceJet,Business,20kg,Summer,Snowy,8528
+Air India,Business,20kg,Summer,Foggy,9654
+Air India,Economy,15kg,Spring,Rainy,4159
+Vistara,Economy,30kg,Winter,Windy,4410
+GoAir,Business,20kg,Spring,Snowy,7171
+SpiceJet,Business,20kg,Spring,Clear,7106
+Vistara,Business,20kg,Winter,Snowy,16987
+Air India,Business,25kg,Autumn,Foggy,13899
+Akasa Air,Business,20kg,Spring,Windy,13717
+Vistara,Business,25kg,Winter,Stormy,15300
+AirAsia India,Business,15kg,Summer,Foggy,7179
+SpiceJet,Business,15kg,Spring,Snowy,9060
+AirAsia India,Business,15kg,Autumn,Foggy,17004
+SpiceJet,Business,15kg,Autumn,Snowy,11686
+Akasa Air,Economy,25kg,Spring,Clear,5244
+Air India,Business,30kg,Summer,Snowy,9643
+IndiGo,Economy,15kg,Summer,Windy,8399
+Air India,Business,25kg,Winter,Clear,13325
+AirAsia India,Economy,30kg,Summer,Foggy,5856
+AirAsia India,Economy,30kg,Summer,Foggy,3401
+IndiGo,Economy,25kg,Spring,Windy,4789
+GoAir,Economy,20kg,Winter,Snowy,9488
+Vistara,Business,20kg,Spring,Rainy,7988
+IndiGo,Economy,20kg,Winter,Stormy,3875
+IndiGo,Economy,25kg,Autumn,Windy,5682
+GoAir,Economy,20kg,Autumn,Windy,5980
+Vistara,Business,20kg,Winter,Clear,8607
+Vistara,Business,30kg,Winter,Stormy,10322
+SpiceJet,Economy,30kg,Summer,Foggy,4489
+GoAir,Business,30kg,Autumn,Stormy,8629
+GoAir,Economy,25kg,Winter,Rainy,9213
+AirAsia India,Business,30kg,Spring,Windy,6248
+GoAir,Economy,20kg,Summer,Windy,6451
+Vistara,Business,25kg,Summer,Windy,17675
+Akasa Air,Economy,15kg,Winter,Stormy,7074
+Air India,Economy,25kg,Spring,Stormy,8470
+IndiGo,Economy,20kg,Winter,Windy,6842
+Akasa Air,Business,20kg,Summer,Stormy,7038
+Vistara,Economy,25kg,Autumn,Stormy,6287
+AirAsia India,Economy,25kg,Summer,Foggy,7343
+GoAir,Economy,15kg,Summer,Clear,6787
+SpiceJet,Business,30kg,Spring,Stormy,14117
+SpiceJet,Business,15kg,Spring,Rainy,8895
+AirAsia India,Business,15kg,Summer,Foggy,16067
+IndiGo,Economy,15kg,Winter,Snowy,8527
+SpiceJet,Business,20kg,Winter,Windy,14735
+GoAir,Economy,30kg,Winter,Clear,5800
+SpiceJet,Business,25kg,Winter,Foggy,10483
+Air India,Economy,15kg,Autumn,Foggy,4965
+Vistara,Business,15kg,Autumn,Clear,16141
+GoAir,Economy,20kg,Spring,Snowy,5615
+Air India,Economy,30kg,Autumn,Clear,4401
+AirAsia India,Economy,25kg,Spring,Windy,9172
+AirAsia India,Economy,15kg,Autumn,Foggy,4081
+Vistara,Economy,30kg,Autumn,Rainy,7444
+Air India,Business,20kg,Summer,Rainy,12033
+Akasa Air,Business,15kg,Spring,Windy,8541
+IndiGo,Business,15kg,Summer,Clear,10866
+IndiGo,Business,15kg,Summer,Windy,10843
+AirAsia India,Business,15kg,Autumn,Clear,15981
+Vistara,Business,30kg,Autumn,Snowy,9403
+Air India,Business,30kg,Autumn,Snowy,10038
+SpiceJet,Economy,20kg,Summer,Stormy,6637
+AirAsia India,Economy,20kg,Spring,Stormy,8184
+SpiceJet,Economy,20kg,Spring,Windy,4413
+Air India,Economy,25kg,Spring,Rainy,4709
+GoAir,Business,15kg,Summer,Snowy,6606
+Air India,Economy,30kg,Winter,Stormy,4796
+Air India,Business,20kg,Summer,Stormy,7386
+GoAir,Economy,15kg,Summer,Windy,3392
+IndiGo,Business,30kg,Spring,Snowy,5363
+Air India,Business,30kg,Autumn,Clear,7027
+Vistara,Economy,20kg,Spring,Clear,7496
+AirAsia India,Business,15kg,Autumn,Rainy,8358
+Vistara,Business,30kg,Summer,Foggy,15616
+Akasa Air,Business,15kg,Winter,Rainy,11256
+GoAir,Economy,30kg,Spring,Stormy,4689
+IndiGo,Economy,15kg,Summer,Windy,9824
+SpiceJet,Economy,20kg,Autumn,Windy,4737
+AirAsia India,Business,25kg,Autumn,Stormy,11517
+GoAir,Economy,15kg,Summer,Foggy,7764
+SpiceJet,Business,15kg,Summer,Rainy,11977
+AirAsia India,Business,30kg,Autumn,Rainy,14897
+Air India,Economy,30kg,Winter,Stormy,5124
+AirAsia India,Economy,20kg,Summer,Rainy,9258
+SpiceJet,Economy,20kg,Summer,Stormy,9496
+SpiceJet,Business,20kg,Winter,Stormy,8433
+SpiceJet,Business,30kg,Summer,Stormy,8642
+Air India,Business,20kg,Winter,Windy,10258
+Air India,Business,20kg,Autumn,Stormy,13411
+AirAsia India,Economy,30kg,Summer,Foggy,3633
+AirAsia India,Business,20kg,Autumn,Snowy,8207
+IndiGo,Economy,25kg,Spring,Snowy,3998
+Air India,Business,30kg,Winter,Rainy,5955
+AirAsia India,Business,15kg,Spring,Stormy,6685
+Vistara,Business,15kg,Summer,Windy,9573
+SpiceJet,Economy,15kg,Autumn,Snowy,4994
+GoAir,Economy,30kg,Summer,Rainy,6673
+SpiceJet,Economy,30kg,Winter,Foggy,6383
+Akasa Air,Business,25kg,Spring,Stormy,12118
+Akasa Air,Business,15kg,Spring,Stormy,5203
+SpiceJet,Business,25kg,Spring,Foggy,7031
+Vistara,Business,30kg,Summer,Snowy,6281
+AirAsia India,Economy,20kg,Autumn,Stormy,4370
+Akasa Air,Economy,20kg,Summer,Rainy,6817
+IndiGo,Economy,30kg,Autumn,Clear,3974
+IndiGo,Business,25kg,Autumn,Rainy,10701
+GoAir,Economy,25kg,Summer,Snowy,5849
+Vistara,Business,20kg,Winter,Windy,17057
+AirAsia India,Economy,20kg,Spring,Stormy,4383
+Air India,Economy,30kg,Summer,Rainy,5219
+SpiceJet,Business,25kg,Autumn,Rainy,11336
+SpiceJet,Economy,25kg,Summer,Stormy,3668
+GoAir,Economy,20kg,Autumn,Windy,9963
+GoAir,Business,30kg,Spring,Foggy,10148
+Air India,Business,15kg,Summer,Clear,5805
+Vistara,Business,25kg,Autumn,Rainy,15004
+Air India,Economy,30kg,Summer,Rainy,4867
+IndiGo,Business,30kg,Summer,Clear,10074
+Akasa Air,Economy,20kg,Spring,Stormy,3792
+Air India,Business,20kg,Spring,Clear,6667
+IndiGo,Economy,20kg,Spring,Windy,3863
+AirAsia India,Economy,30kg,Summer,Foggy,3497
+Air India,Economy,15kg,Winter,Windy,8946
+SpiceJet,Business,30kg,Winter,Foggy,7759
+AirAsia India,Economy,25kg,Winter,Foggy,5449
+Akasa Air,Economy,25kg,Summer,Foggy,5210
+Vistara,Business,15kg,Summer,Rainy,14488
+Vistara,Economy,15kg,Autumn,Rainy,10000
+SpiceJet,Economy,15kg,Winter,Rainy,5566
+IndiGo,Economy,30kg,Winter,Stormy,5220
+Vistara,Economy,20kg,Autumn,Snowy,4880
+SpiceJet,Economy,20kg,Summer,Rainy,3565
+GoAir,Economy,25kg,Autumn,Clear,5168
+SpiceJet,Business,15kg,Summer,Foggy,6742
+Vistara,Economy,20kg,Spring,Snowy,7680
+IndiGo,Economy,15kg,Summer,Rainy,7486
+SpiceJet,Economy,15kg,Winter,Clear,4603
+AirAsia India,Business,15kg,Summer,Foggy,5761
+AirAsia India,Economy,20kg,Spring,Rainy,5463
+IndiGo,Business,20kg,Winter,Clear,7472
+SpiceJet,Business,30kg,Summer,Stormy,13318
+SpiceJet,Business,25kg,Spring,Foggy,5929
+IndiGo,Business,20kg,Summer,Windy,13655
+IndiGo,Business,30kg,Spring,Stormy,5531
+Air India,Economy,15kg,Winter,Foggy,3832
+IndiGo,Economy,20kg,Winter,Stormy,7396
+IndiGo,Economy,25kg,Summer,Rainy,4782
+Akasa Air,Economy,30kg,Summer,Rainy,5731
+Vistara,Business,30kg,Autumn,Stormy,14695
+SpiceJet,Business,20kg,Winter,Snowy,12718
+AirAsia India,Business,25kg,Spring,Stormy,6755
+Vistara,Business,20kg,Winter,Windy,10292
+Air India,Economy,15kg,Summer,Windy,5437
+Air India,Business,30kg,Winter,Clear,11394
+Vistara,Economy,30kg,Winter,Snowy,4378
+Akasa Air,Business,20kg,Winter,Foggy,16035
+Vistara,Business,15kg,Winter,Clear,6802
+IndiGo,Economy,20kg,Spring,Clear,5809
+Air India,Economy,30kg,Summer,Foggy,5043
+Vistara,Economy,15kg,Winter,Stormy,7416
+Air India,Business,30kg,Summer,Stormy,7793
+AirAsia India,Business,20kg,Winter,Stormy,6295
+SpiceJet,Business,20kg,Summer,Foggy,10852
+Air India,Economy,15kg,Autumn,Stormy,8055
+IndiGo,Economy,30kg,Summer,Snowy,3906
+Akasa Air,Business,20kg,Summer,Snowy,12088
+GoAir,Economy,30kg,Summer,Clear,6219
+GoAir,Business,15kg,Autumn,Snowy,11847
+Vistara,Business,20kg,Winter,Rainy,12709
+AirAsia India,Economy,15kg,Winter,Foggy,7132
+Air India,Economy,30kg,Winter,Stormy,6789
+IndiGo,Economy,25kg,Spring,Foggy,5657
+Air India,Economy,15kg,Winter,Windy,8061
+AirAsia India,Economy,20kg,Summer,Clear,9348
+IndiGo,Economy,20kg,Spring,Snowy,7303
+Air India,Economy,30kg,Summer,Stormy,8009
+IndiGo,Business,20kg,Summer,Windy,8269
+SpiceJet,Business,30kg,Winter,Stormy,10700
+Vistara,Business,25kg,Spring,Foggy,9887
+Vistara,Economy,30kg,Spring,Snowy,8697
+AirAsia India,Economy,20kg,Winter,Stormy,5137
+Air India,Economy,15kg,Winter,Rainy,8820
+Vistara,Economy,15kg,Winter,Snowy,4363
+SpiceJet,Economy,25kg,Autumn,Stormy,7775
+Air India,Economy,20kg,Winter,Snowy,3713
+Akasa Air,Business,15kg,Spring,Clear,11628
+Akasa Air,Economy,30kg,Summer,Clear,7998
+AirAsia India,Business,15kg,Spring,Windy,12923
+IndiGo,Economy,15kg,Winter,Foggy,6080
+Vistara,Economy,20kg,Autumn,Foggy,3322
+SpiceJet,Economy,20kg,Winter,Rainy,7523
+Vistara,Economy,25kg,Autumn,Stormy,6218
+Vistara,Economy,15kg,Summer,Snowy,6789
+Vistara,Economy,25kg,Summer,Snowy,5772
+Vistara,Economy,25kg,Spring,Foggy,2751
+Vistara,Business,25kg,Winter,Clear,8670
+GoAir,Economy,25kg,Winter,Stormy,5433
+AirAsia India,Business,15kg,Winter,Rainy,14391
+Vistara,Economy,20kg,Winter,Snowy,5541
+GoAir,Business,25kg,Spring,Snowy,9718
+GoAir,Business,30kg,Summer,Stormy,12174
+Vistara,Economy,30kg,Autumn,Windy,10356
+SpiceJet,Business,30kg,Autumn,Stormy,14706
+AirAsia India,Business,25kg,Autumn,Clear,10398
+Air India,Economy,25kg,Summer,Rainy,6937
+Akasa Air,Economy,20kg,Autumn,Stormy,6068
+Air India,Economy,25kg,Spring,Clear,8741
+Vistara,Business,25kg,Summer,Snowy,12826
+AirAsia India,Economy,20kg,Spring,Foggy,6682
+GoAir,Business,30kg,Winter,Foggy,6994
+SpiceJet,Economy,15kg,Spring,Snowy,4589
+Akasa Air,Economy,25kg,Winter,Foggy,3264
+Vistara,Business,15kg,Spring,Stormy,10126
+IndiGo,Business,15kg,Winter,Snowy,8471
+Vistara,Economy,30kg,Autumn,Windy,6563
+IndiGo,Economy,20kg,Spring,Stormy,7695
+Akasa Air,Business,30kg,Autumn,Snowy,15839
+GoAir,Economy,30kg,Winter,Rainy,8325
+SpiceJet,Business,15kg,Autumn,Snowy,11129
+IndiGo,Economy,20kg,Spring,Snowy,3531
+Vistara,Economy,30kg,Summer,Rainy,7850
+IndiGo,Business,25kg,Spring,Snowy,15302
+Air India,Business,20kg,Autumn,Stormy,15097
+IndiGo,Business,30kg,Summer,Snowy,10455
+Air India,Economy,25kg,Winter,Clear,5755
+IndiGo,Business,30kg,Summer,Windy,11269
+Vistara,Economy,15kg,Autumn,Foggy,7050
+Akasa Air,Business,30kg,Autumn,Windy,8392
+IndiGo,Business,25kg,Spring,Foggy,7322
+SpiceJet,Economy,20kg,Winter,Windy,7185
+IndiGo,Business,30kg,Winter,Clear,12367
+Vistara,Economy,30kg,Spring,Rainy,4645
+AirAsia India,Economy,30kg,Autumn,Clear,9980
+GoAir,Economy,25kg,Summer,Snowy,4608
+IndiGo,Economy,30kg,Winter,Stormy,9211
+Air India,Economy,25kg,Winter,Clear,3813
+GoAir,Economy,20kg,Summer,Clear,5120
+Akasa Air,Business,30kg,Winter,Rainy,12598
+GoAir,Economy,25kg,Summer,Foggy,6405
+SpiceJet,Business,25kg,Winter,Stormy,8375
+GoAir,Business,15kg,Autumn,Foggy,16187
+GoAir,Business,25kg,Spring,Rainy,11806
+AirAsia India,Business,20kg,Autumn,Clear,7294
+IndiGo,Business,30kg,Autumn,Clear,9966
+IndiGo,Economy,20kg,Spring,Snowy,5712
+Vistara,Economy,25kg,Autumn,Rainy,6536
+SpiceJet,Business,25kg,Spring,Snowy,13972
+Akasa Air,Business,15kg,Spring,Stormy,5159
+IndiGo,Business,20kg,Winter,Windy,11735
+IndiGo,Business,25kg,Winter,Stormy,12455
+Air India,Business,15kg,Autumn,Snowy,10022
+SpiceJet,Economy,25kg,Spring,Foggy,5365
+Vistara,Business,25kg,Spring,Clear,17651
+Air India,Business,20kg,Summer,Clear,11034
+GoAir,Economy,20kg,Summer,Rainy,6844
+GoAir,Economy,25kg,Summer,Snowy,6459
+GoAir,Economy,30kg,Summer,Stormy,5155
+Vistara,Business,25kg,Summer,Windy,11190
+GoAir,Economy,20kg,Spring,Clear,4474
+AirAsia India,Business,30kg,Winter,Clear,11717
+Vistara,Economy,20kg,Summer,Stormy,6252
+Air India,Economy,15kg,Autumn,Stormy,5865
+SpiceJet,Business,25kg,Winter,Stormy,13563
+Akasa Air,Business,15kg,Spring,Windy,11605
+IndiGo,Business,25kg,Summer,Clear,10036
+SpiceJet,Business,15kg,Winter,Snowy,7949
+Vistara,Business,30kg,Winter,Foggy,7707
+GoAir,Business,25kg,Autumn,Windy,16356
+Air India,Economy,20kg,Summer,Windy,5124
+AirAsia India,Business,20kg,Autumn,Clear,12387
+IndiGo,Business,30kg,Winter,Rainy,11480
+Akasa Air,Economy,30kg,Summer,Clear,6428
+Air India,Business,25kg,Autumn,Stormy,15184
+Air India,Business,15kg,Spring,Foggy,11322
+IndiGo,Economy,25kg,Summer,Foggy,4148
+AirAsia India,Economy,15kg,Autumn,Snowy,6111
+SpiceJet,Business,30kg,Autumn,Snowy,8115
+SpiceJet,Business,20kg,Winter,Snowy,14692
+Air India,Economy,20kg,Summer,Snowy,4278
+Air India,Economy,30kg,Summer,Stormy,4788
+GoAir,Economy,30kg,Autumn,Clear,7701
+AirAsia India,Business,25kg,Spring,Windy,8227
+SpiceJet,Economy,20kg,Spring,Rainy,5637
+SpiceJet,Economy,30kg,Winter,Clear,7057
+AirAsia India,Business,30kg,Summer,Foggy,8508
+GoAir,Economy,25kg,Autumn,Clear,6254
+AirAsia India,Business,20kg,Winter,Windy,11275
+IndiGo,Business,20kg,Spring,Snowy,11492
+Air India,Economy,25kg,Winter,Rainy,3371
+Air India,Business,30kg,Winter,Windy,6583
+GoAir,Business,30kg,Autumn,Snowy,7855
+SpiceJet,Business,20kg,Winter,Windy,13671
+Akasa Air,Business,30kg,Autumn,Snowy,8620
+Akasa Air,Business,15kg,Autumn,Snowy,11577
+IndiGo,Business,15kg,Spring,Snowy,13134
+AirAsia India,Economy,15kg,Summer,Foggy,6017
+SpiceJet,Economy,20kg,Spring,Snowy,5190
+GoAir,Business,30kg,Summer,Windy,13066
+Akasa Air,Business,30kg,Spring,Stormy,6248
+SpiceJet,Economy,30kg,Summer,Rainy,6339
+Air India,Business,25kg,Summer,Snowy,8738
+GoAir,Economy,15kg,Spring,Windy,7157
+IndiGo,Economy,15kg,Winter,Foggy,4634
+GoAir,Business,30kg,Winter,Stormy,6735
+Vistara,Business,30kg,Autumn,Stormy,9486
+AirAsia India,Economy,30kg,Autumn,Stormy,8083
+IndiGo,Economy,30kg,Winter,Rainy,8597
+Vistara,Economy,25kg,Autumn,Rainy,8326
+AirAsia India,Economy,25kg,Spring,Stormy,4896
+Akasa Air,Business,25kg,Autumn,Windy,10315
+Akasa Air,Economy,30kg,Spring,Foggy,6658
+Air India,Business,15kg,Summer,Rainy,13980
+Air India,Business,25kg,Summer,Windy,7458
+SpiceJet,Business,25kg,Summer,Stormy,12216
+Air India,Business,20kg,Summer,Clear,7855
+GoAir,Business,15kg,Summer,Snowy,11655
+Air India,Economy,30kg,Summer,Snowy,6734
+GoAir,Business,15kg,Summer,Stormy,12770
+Air India,Business,15kg,Summer,Stormy,7517
+IndiGo,Economy,20kg,Spring,Windy,6969
+AirAsia India,Economy,30kg,Winter,Foggy,5044
+Air India,Business,20kg,Winter,Clear,11856
+IndiGo,Economy,30kg,Summer,Clear,4209
+Akasa Air,Business,25kg,Summer,Stormy,16925
+GoAir,Economy,25kg,Autumn,Rainy,6173
+SpiceJet,Economy,15kg,Winter,Stormy,3658
+Air India,Business,25kg,Spring,Snowy,6655
+Akasa Air,Economy,30kg,Autumn,Clear,6281
+Air India,Economy,25kg,Autumn,Clear,5269
+Akasa Air,Business,30kg,Autumn,Rainy,8822
+SpiceJet,Economy,15kg,Spring,Foggy,4164
+GoAir,Business,25kg,Summer,Foggy,7074
+IndiGo,Business,30kg,Autumn,Foggy,11001
+GoAir,Economy,30kg,Summer,Clear,4436
+AirAsia India,Business,20kg,Winter,Stormy,7700
+GoAir,Economy,15kg,Summer,Windy,3942
+GoAir,Economy,20kg,Winter,Snowy,6095
+GoAir,Business,25kg,Winter,Snowy,7855
+SpiceJet,Business,25kg,Winter,Foggy,13616
+Akasa Air,Business,30kg,Winter,Foggy,14453
+AirAsia India,Business,20kg,Summer,Foggy,9608
+AirAsia India,Business,20kg,Spring,Rainy,9339
+IndiGo,Economy,25kg,Winter,Rainy,6897
+SpiceJet,Business,15kg,Spring,Clear,16213
+IndiGo,Economy,20kg,Spring,Windy,7580
+Vistara,Economy,15kg,Autumn,Clear,6594
+Air India,Business,15kg,Winter,Foggy,13885
+Akasa Air,Economy,30kg,Autumn,Snowy,3466
+Vistara,Economy,25kg,Winter,Stormy,4455
+SpiceJet,Business,15kg,Spring,Foggy,14081
+GoAir,Economy,25kg,Winter,Rainy,5240
+GoAir,Business,15kg,Summer,Foggy,11498
+Vistara,Economy,30kg,Autumn,Foggy,6178
+IndiGo,Economy,20kg,Winter,Foggy,4756
+Akasa Air,Economy,20kg,Autumn,Rainy,5558
+IndiGo,Economy,25kg,Spring,Rainy,8214
+Air India,Economy,25kg,Winter,Foggy,5413
+AirAsia India,Business,25kg,Winter,Stormy,13928
+Akasa Air,Economy,15kg,Spring,Stormy,4903
+IndiGo,Economy,25kg,Winter,Clear,5088
+AirAsia India,Economy,15kg,Summer,Rainy,8572
+Vistara,Economy,25kg,Summer,Stormy,5156
+AirAsia India,Business,25kg,Winter,Foggy,8170
+SpiceJet,Economy,20kg,Autumn,Foggy,4723
+Air India,Business,25kg,Spring,Snowy,5409
+SpiceJet,Economy,25kg,Spring,Clear,5340
+IndiGo,Economy,30kg,Spring,Foggy,5980
+AirAsia India,Economy,25kg,Spring,Clear,7449
+AirAsia India,Business,20kg,Spring,Rainy,14405
+AirAsia India,Economy,30kg,Winter,Stormy,8036
+Air India,Economy,30kg,Autumn,Windy,4885
+Vistara,Economy,15kg,Spring,Rainy,3622
+GoAir,Business,25kg,Autumn,Foggy,9082
+Air India,Economy,20kg,Spring,Snowy,3670
+Vistara,Business,15kg,Summer,Stormy,10288
+GoAir,Business,15kg,Spring,Foggy,10835
+IndiGo,Business,30kg,Spring,Foggy,11957
+AirAsia India,Business,20kg,Winter,Windy,10809
+GoAir,Business,15kg,Winter,Windy,15469
+GoAir,Economy,30kg,Autumn,Rainy,3348
+GoAir,Business,30kg,Autumn,Stormy,10772
+GoAir,Economy,15kg,Autumn,Foggy,7835
+Air India,Economy,25kg,Autumn,Foggy,5000
+Akasa Air,Economy,25kg,Spring,Stormy,6519
+Akasa Air,Economy,20kg,Winter,Windy,3855
+GoAir,Economy,25kg,Autumn,Windy,4430
+GoAir,Economy,20kg,Winter,Stormy,9266
+AirAsia India,Business,25kg,Summer,Snowy,9066
+GoAir,Business,30kg,Winter,Snowy,11912
+IndiGo,Economy,20kg,Spring,Stormy,8254
+Vistara,Business,30kg,Spring,Foggy,8453
+AirAsia India,Business,20kg,Spring,Stormy,6169
+Air India,Economy,30kg,Autumn,Snowy,7227
+Vistara,Business,20kg,Summer,Snowy,10696
+SpiceJet,Economy,25kg,Autumn,Foggy,7948
+Air India,Business,25kg,Summer,Clear,14090
+Air India,Economy,25kg,Spring,Clear,8318
+Vistara,Economy,20kg,Winter,Clear,5993
+GoAir,Business,25kg,Spring,Snowy,9372
+Air India,Business,15kg,Spring,Snowy,8792
+GoAir,Business,20kg,Autumn,Clear,11411
+SpiceJet,Business,20kg,Winter,Snowy,12696
+IndiGo,Economy,30kg,Summer,Stormy,4099
+Vistara,Economy,20kg,Summer,Foggy,4963
+SpiceJet,Economy,25kg,Summer,Foggy,7172
+SpiceJet,Business,25kg,Spring,Rainy,10292
+GoAir,Business,25kg,Summer,Stormy,11354
+AirAsia India,Business,30kg,Spring,Rainy,6765
+GoAir,Economy,30kg,Spring,Windy,10133
+SpiceJet,Economy,15kg,Summer,Snowy,6168
+Air India,Business,25kg,Spring,Windy,14156
+AirAsia India,Business,20kg,Spring,Stormy,13534
+GoAir,Business,25kg,Autumn,Rainy,10000
+IndiGo,Economy,30kg,Winter,Windy,7165
+Air India,Business,15kg,Autumn,Windy,9351
+GoAir,Business,30kg,Summer,Snowy,7324
+SpiceJet,Business,20kg,Summer,Snowy,11916
+GoAir,Business,30kg,Winter,Snowy,9552
+SpiceJet,Business,20kg,Autumn,Foggy,12349
+IndiGo,Business,20kg,Autumn,Foggy,9053
+IndiGo,Business,30kg,Winter,Foggy,8130
+Akasa Air,Business,25kg,Spring,Windy,6737
+Vistara,Economy,25kg,Spring,Clear,7147
+Air India,Business,20kg,Summer,Windy,7270
+Akasa Air,Economy,30kg,Autumn,Stormy,8391
+Akasa Air,Business,15kg,Summer,Stormy,9039
+Vistara,Economy,15kg,Spring,Windy,7538
+GoAir,Business,15kg,Autumn,Snowy,11698
+SpiceJet,Business,15kg,Winter,Windy,11858
+SpiceJet,Business,15kg,Summer,Windy,13721
+SpiceJet,Economy,20kg,Summer,Rainy,5134
+IndiGo,Economy,15kg,Winter,Stormy,4456
+IndiGo,Business,20kg,Winter,Stormy,8790
+GoAir,Business,30kg,Spring,Windy,14091
+GoAir,Business,30kg,Spring,Snowy,12153
+Vistara,Business,25kg,Spring,Foggy,13742
+Vistara,Business,20kg,Winter,Windy,11383
+SpiceJet,Business,15kg,Winter,Clear,7116
+Akasa Air,Business,15kg,Spring,Clear,5443
+Akasa Air,Economy,25kg,Summer,Windy,3949
+IndiGo,Business,30kg,Summer,Rainy,8848
+IndiGo,Business,25kg,Winter,Clear,11509
+GoAir,Economy,25kg,Autumn,Stormy,3370
+IndiGo,Business,30kg,Autumn,Stormy,12689
+SpiceJet,Economy,25kg,Autumn,Rainy,5034
+Akasa Air,Business,20kg,Autumn,Snowy,7334
+SpiceJet,Business,20kg,Spring,Foggy,9947
+Air India,Business,15kg,Spring,Clear,12421
+AirAsia India,Business,15kg,Summer,Windy,9394
+IndiGo,Economy,30kg,Summer,Foggy,9324
+SpiceJet,Economy,15kg,Spring,Snowy,6181
+GoAir,Economy,15kg,Winter,Foggy,5336
+Air India,Economy,30kg,Winter,Rainy,6124
+Vistara,Business,25kg,Winter,Clear,6967
+GoAir,Business,20kg,Summer,Windy,14438
+SpiceJet,Economy,30kg,Winter,Clear,5891
+GoAir,Economy,25kg,Summer,Windy,4267
+IndiGo,Business,20kg,Summer,Windy,12223
+Vistara,Business,15kg,Autumn,Snowy,10238
+SpiceJet,Economy,15kg,Winter,Snowy,4035
+Air India,Economy,30kg,Spring,Rainy,3782
+IndiGo,Economy,15kg,Summer,Snowy,8563
+AirAsia India,Economy,30kg,Autumn,Windy,4066
+Akasa Air,Economy,20kg,Spring,Rainy,6508
+Air India,Business,20kg,Summer,Snowy,15083
+IndiGo,Economy,25kg,Summer,Rainy,7035
+Vistara,Business,15kg,Summer,Rainy,10830
+AirAsia India,Business,20kg,Spring,Rainy,17822
+Vistara,Business,20kg,Spring,Snowy,8981
+GoAir,Economy,20kg,Summer,Foggy,8923
+SpiceJet,Business,25kg,Spring,Foggy,14204
+Akasa Air,Business,25kg,Summer,Rainy,5400
+AirAsia India,Economy,20kg,Winter,Stormy,6795
+SpiceJet,Business,25kg,Winter,Clear,11799
+SpiceJet,Business,20kg,Spring,Clear,7864
+AirAsia India,Business,30kg,Spring,Stormy,16427
+AirAsia India,Business,25kg,Autumn,Stormy,8604
+AirAsia India,Business,25kg,Autumn,Rainy,7560
+SpiceJet,Economy,15kg,Spring,Foggy,4939
+IndiGo,Business,25kg,Spring,Clear,17081
+GoAir,Economy,25kg,Autumn,Rainy,4008
+GoAir,Business,25kg,Summer,Snowy,13822
+AirAsia India,Business,15kg,Winter,Snowy,10918
+Akasa Air,Business,30kg,Autumn,Clear,12642
+AirAsia India,Business,30kg,Autumn,Rainy,14346
+GoAir,Economy,15kg,Spring,Windy,4401
+Akasa Air,Economy,15kg,Winter,Rainy,6064
+GoAir,Economy,30kg,Winter,Snowy,3848
+SpiceJet,Economy,30kg,Spring,Rainy,4330
+Air India,Economy,20kg,Winter,Stormy,5638
+AirAsia India,Economy,25kg,Spring,Stormy,7162
+IndiGo,Economy,30kg,Autumn,Windy,7331
+AirAsia India,Economy,20kg,Summer,Snowy,3695
+Vistara,Business,15kg,Winter,Snowy,9109
+Akasa Air,Economy,15kg,Winter,Rainy,6195
+IndiGo,Business,20kg,Summer,Clear,15194
+AirAsia India,Business,30kg,Summer,Windy,14129
+Air India,Business,15kg,Winter,Rainy,7912
+SpiceJet,Economy,30kg,Spring,Snowy,4757
+Akasa Air,Economy,20kg,Summer,Windy,7574
+SpiceJet,Economy,25kg,Autumn,Windy,8400
+GoAir,Business,30kg,Winter,Clear,12672
+SpiceJet,Business,30kg,Summer,Snowy,12601
+SpiceJet,Business,30kg,Winter,Foggy,10035
+AirAsia India,Business,30kg,Spring,Foggy,12825
+GoAir,Business,15kg,Autumn,Windy,10198
+GoAir,Economy,15kg,Autumn,Clear,4129
+AirAsia India,Business,20kg,Winter,Snowy,12253
+Air India,Business,30kg,Summer,Foggy,10701
+Air India,Business,20kg,Summer,Foggy,6366
+Vistara,Business,20kg,Winter,Snowy,6005
+Vistara,Economy,20kg,Spring,Windy,4030
+Air India,Economy,30kg,Autumn,Stormy,7093
+Air India,Economy,25kg,Summer,Rainy,5635
+Air India,Economy,20kg,Summer,Stormy,4163
+GoAir,Economy,15kg,Spring,Snowy,6469
+SpiceJet,Business,25kg,Spring,Windy,8375
+Air India,Economy,30kg,Autumn,Snowy,5110
+GoAir,Business,30kg,Autumn,Snowy,8439
+Akasa Air,Economy,15kg,Summer,Snowy,7726
+Akasa Air,Business,25kg,Autumn,Stormy,10467
+IndiGo,Business,20kg,Spring,Rainy,15482
+Vistara,Economy,25kg,Winter,Rainy,8492
+IndiGo,Economy,20kg,Summer,Windy,8762
+SpiceJet,Business,25kg,Summer,Windy,13566
+IndiGo,Business,30kg,Spring,Stormy,6691
+Akasa Air,Business,25kg,Autumn,Rainy,17915
+GoAir,Economy,25kg,Winter,Snowy,7179
+Air India,Business,30kg,Summer,Windy,13603
+IndiGo,Economy,25kg,Spring,Snowy,7316
+Akasa Air,Economy,30kg,Winter,Stormy,7378
+SpiceJet,Business,20kg,Autumn,Rainy,15968
+SpiceJet,Business,15kg,Summer,Foggy,7237
+GoAir,Business,25kg,Autumn,Snowy,5707
+Akasa Air,Economy,15kg,Spring,Foggy,5186
+AirAsia India,Economy,30kg,Spring,Stormy,3695
+IndiGo,Economy,25kg,Spring,Clear,6928
+Akasa Air,Business,20kg,Winter,Clear,8622
+GoAir,Economy,30kg,Autumn,Rainy,6266
+AirAsia India,Business,30kg,Summer,Stormy,7006
+IndiGo,Economy,15kg,Winter,Windy,5907
+AirAsia India,Economy,30kg,Spring,Clear,4495
+IndiGo,Economy,15kg,Winter,Foggy,6398
+GoAir,Business,25kg,Spring,Clear,15808
+Air India,Business,15kg,Winter,Clear,9092
+Air India,Economy,20kg,Winter,Snowy,6401
+Vistara,Business,20kg,Spring,Rainy,14601
+AirAsia India,Business,25kg,Winter,Clear,9565
+AirAsia India,Economy,15kg,Spring,Foggy,5515
+SpiceJet,Economy,15kg,Summer,Stormy,3724
+AirAsia India,Business,30kg,Summer,Windy,17950
+AirAsia India,Economy,30kg,Summer,Snowy,5803
+AirAsia India,Economy,20kg,Autumn,Windy,7387
+IndiGo,Business,15kg,Autumn,Snowy,5752
+Air India,Economy,25kg,Autumn,Stormy,5368
+IndiGo,Economy,25kg,Winter,Snowy,4395
+Air India,Business,25kg,Autumn,Clear,11792
+Akasa Air,Business,15kg,Autumn,Snowy,14861
+Vistara,Economy,25kg,Summer,Stormy,9471
+SpiceJet,Economy,30kg,Winter,Clear,7478
+GoAir,Business,25kg,Winter,Foggy,6739
+Akasa Air,Economy,30kg,Summer,Clear,4880
+Air India,Economy,25kg,Spring,Snowy,6598
+Vistara,Business,15kg,Winter,Windy,10737
+Akasa Air,Business,20kg,Spring,Snowy,11427
+IndiGo,Economy,20kg,Autumn,Rainy,4711
+Vistara,Business,30kg,Winter,Stormy,9079
+SpiceJet,Business,30kg,Spring,Stormy,15792
+SpiceJet,Business,15kg,Autumn,Windy,9068
+IndiGo,Business,25kg,Winter,Snowy,6759
+AirAsia India,Economy,25kg,Winter,Stormy,8573
+GoAir,Economy,15kg,Summer,Windy,8495
+AirAsia India,Business,30kg,Autumn,Clear,14184
+IndiGo,Business,25kg,Summer,Stormy,7948
+Vistara,Economy,15kg,Summer,Rainy,3970
+AirAsia India,Business,30kg,Spring,Clear,9561
+SpiceJet,Economy,15kg,Spring,Foggy,3913
+Air India,Economy,20kg,Autumn,Stormy,9354
+SpiceJet,Economy,15kg,Autumn,Snowy,4149
+Air India,Business,20kg,Spring,Windy,12420
+Vistara,Business,15kg,Autumn,Rainy,16767
+Vistara,Business,25kg,Autumn,Windy,7482
+Air India,Business,15kg,Autumn,Foggy,9335
+Akasa Air,Business,30kg,Winter,Clear,5886
+AirAsia India,Business,30kg,Autumn,Snowy,8130
+GoAir,Economy,15kg,Autumn,Clear,9431
+Akasa Air,Business,15kg,Autumn,Rainy,10050
+Air India,Economy,15kg,Summer,Clear,5530
+Akasa Air,Economy,30kg,Spring,Clear,7846
+SpiceJet,Business,25kg,Spring,Rainy,9522
+IndiGo,Business,20kg,Winter,Foggy,12750
+Akasa Air,Business,15kg,Winter,Stormy,12853
+GoAir,Economy,25kg,Spring,Stormy,7472
+Akasa Air,Economy,20kg,Autumn,Clear,6435
+SpiceJet,Economy,20kg,Winter,Clear,3771
+GoAir,Economy,15kg,Autumn,Foggy,3350
+Air India,Business,20kg,Spring,Windy,17404
+Air India,Economy,15kg,Winter,Snowy,5759
+SpiceJet,Business,15kg,Summer,Rainy,8217
+SpiceJet,Economy,30kg,Spring,Clear,4378
+Air India,Business,20kg,Winter,Clear,8175
+GoAir,Economy,20kg,Summer,Stormy,4882
+AirAsia India,Economy,30kg,Winter,Foggy,4267
+Vistara,Economy,20kg,Summer,Foggy,4287
+Vistara,Economy,30kg,Spring,Stormy,6618
+AirAsia India,Economy,15kg,Spring,Clear,5060
+IndiGo,Business,20kg,Winter,Clear,15990
+Akasa Air,Business,25kg,Winter,Foggy,15122
+Akasa Air,Business,15kg,Spring,Stormy,11059
+GoAir,Business,30kg,Winter,Windy,11363
+Air India,Economy,15kg,Spring,Foggy,6766
+IndiGo,Economy,15kg,Autumn,Clear,6732
+GoAir,Economy,25kg,Spring,Foggy,7127
+AirAsia India,Business,30kg,Spring,Rainy,13505
+AirAsia India,Business,30kg,Winter,Clear,5868
+SpiceJet,Business,15kg,Winter,Stormy,8055
+SpiceJet,Economy,30kg,Winter,Foggy,7170
+Vistara,Economy,20kg,Summer,Windy,4710
+Air India,Business,25kg,Summer,Snowy,9638
+AirAsia India,Business,20kg,Autumn,Stormy,7586
+Akasa Air,Business,25kg,Autumn,Snowy,8078
+IndiGo,Business,15kg,Spring,Snowy,7336
+Air India,Business,20kg,Autumn,Foggy,6454
+Vistara,Business,30kg,Spring,Clear,7492
+GoAir,Economy,20kg,Spring,Foggy,8705
+Vistara,Business,15kg,Summer,Foggy,12650
+AirAsia India,Business,25kg,Autumn,Foggy,12408
+Akasa Air,Economy,25kg,Autumn,Foggy,9376
+Akasa Air,Economy,20kg,Autumn,Windy,4790
+AirAsia India,Economy,25kg,Summer,Snowy,7913
+Akasa Air,Business,30kg,Summer,Foggy,9102
+Air India,Economy,20kg,Spring,Clear,4632
+IndiGo,Economy,25kg,Summer,Clear,6754
+Vistara,Business,20kg,Winter,Stormy,13439
+Air India,Economy,30kg,Autumn,Rainy,7830
+SpiceJet,Economy,25kg,Winter,Foggy,6961
+Air India,Business,25kg,Autumn,Rainy,8090
+AirAsia India,Economy,30kg,Winter,Snowy,5366
+GoAir,Business,30kg,Winter,Windy,15228
+GoAir,Economy,30kg,Autumn,Snowy,3060
+AirAsia India,Economy,15kg,Winter,Clear,3447
+Vistara,Economy,20kg,Summer,Stormy,8919
+AirAsia India,Economy,15kg,Summer,Stormy,6926
+SpiceJet,Economy,15kg,Winter,Foggy,8686
+IndiGo,Economy,25kg,Spring,Clear,4588
+AirAsia India,Economy,30kg,Summer,Clear,6235
+Vistara,Economy,15kg,Autumn,Stormy,4125
+Air India,Economy,30kg,Autumn,Clear,10054
+IndiGo,Economy,30kg,Winter,Rainy,8896
+Vistara,Economy,20kg,Winter,Snowy,6903
+SpiceJet,Business,25kg,Autumn,Stormy,12912
+Akasa Air,Business,30kg,Summer,Clear,16451
+SpiceJet,Economy,25kg,Autumn,Windy,6230
+GoAir,Business,25kg,Summer,Snowy,12682
+GoAir,Business,25kg,Winter,Rainy,14176
+SpiceJet,Business,15kg,Winter,Clear,7162
+IndiGo,Business,25kg,Winter,Snowy,6787
+IndiGo,Business,15kg,Winter,Snowy,5595
+Akasa Air,Economy,15kg,Spring,Windy,5333
+AirAsia India,Economy,25kg,Spring,Snowy,9420
+Akasa Air,Economy,25kg,Summer,Windy,9064
+Air India,Economy,20kg,Winter,Stormy,9024
+SpiceJet,Economy,30kg,Spring,Snowy,7960
+SpiceJet,Business,25kg,Spring,Foggy,7481
+AirAsia India,Business,25kg,Summer,Rainy,8650
+AirAsia India,Economy,15kg,Winter,Stormy,3911
+SpiceJet,Business,25kg,Spring,Rainy,10164
+SpiceJet,Economy,15kg,Autumn,Windy,6004
+Air India,Economy,25kg,Summer,Clear,5824
+Air India,Business,30kg,Winter,Stormy,4869
+AirAsia India,Business,15kg,Spring,Windy,10501
+Air India,Business,15kg,Summer,Windy,10823
+Vistara,Business,25kg,Winter,Stormy,12475
+Vistara,Business,20kg,Winter,Rainy,11435
+IndiGo,Business,20kg,Spring,Clear,8525
+Akasa Air,Economy,30kg,Winter,Stormy,4357
+GoAir,Economy,20kg,Summer,Windy,5691
+AirAsia India,Business,30kg,Winter,Snowy,16457
+IndiGo,Business,15kg,Winter,Stormy,11132
+GoAir,Economy,20kg,Winter,Snowy,8324
+Vistara,Economy,20kg,Spring,Clear,7095
+AirAsia India,Economy,15kg,Winter,Snowy,5190
+Air India,Economy,25kg,Autumn,Clear,6577
+SpiceJet,Economy,30kg,Autumn,Stormy,5394
+Akasa Air,Business,30kg,Autumn,Snowy,15423
+AirAsia India,Economy,15kg,Summer,Windy,4339
+Air India,Business,15kg,Summer,Rainy,11803
+Vistara,Economy,15kg,Spring,Foggy,5513
+SpiceJet,Business,30kg,Summer,Stormy,9920
+IndiGo,Economy,30kg,Spring,Stormy,5342
+GoAir,Business,25kg,Summer,Snowy,11774
+Vistara,Economy,15kg,Spring,Snowy,8175
+Akasa Air,Business,20kg,Winter,Rainy,11070
+Vistara,Economy,25kg,Summer,Snowy,4886
+Akasa Air,Business,15kg,Winter,Stormy,7548
+Akasa Air,Business,25kg,Autumn,Foggy,6757
+Akasa Air,Business,20kg,Autumn,Windy,10225
+IndiGo,Business,30kg,Winter,Foggy,9312
+AirAsia India,Economy,30kg,Spring,Clear,5691
+SpiceJet,Economy,30kg,Winter,Foggy,5036
+GoAir,Economy,25kg,Winter,Stormy,5403
+AirAsia India,Business,30kg,Summer,Foggy,10896
+Vistara,Economy,20kg,Winter,Rainy,5814
+AirAsia India,Economy,20kg,Summer,Stormy,5865
+GoAir,Business,25kg,Winter,Rainy,12612
+Akasa Air,Business,15kg,Summer,Windy,11052
+Vistara,Business,15kg,Spring,Rainy,6633
+SpiceJet,Business,30kg,Winter,Stormy,14236
+GoAir,Business,25kg,Autumn,Foggy,13332
+GoAir,Economy,15kg,Winter,Rainy,7321
+Akasa Air,Economy,30kg,Winter,Foggy,6573
+Vistara,Business,15kg,Summer,Stormy,6151
+SpiceJet,Economy,30kg,Winter,Foggy,3293
+Air India,Business,30kg,Summer,Foggy,6005
+IndiGo,Economy,20kg,Spring,Stormy,6563
+Akasa Air,Business,30kg,Autumn,Rainy,10592
+GoAir,Business,30kg,Spring,Rainy,16156
+Vistara,Economy,15kg,Spring,Snowy,4986
+GoAir,Economy,15kg,Winter,Snowy,6066
+GoAir,Business,15kg,Autumn,Clear,9230
+SpiceJet,Economy,25kg,Autumn,Clear,8686
+Vistara,Economy,15kg,Summer,Snowy,8180
+SpiceJet,Business,30kg,Spring,Windy,15160
+Vistara,Business,30kg,Spring,Windy,17594
+Vistara,Economy,30kg,Autumn,Clear,7583
+Vistara,Business,30kg,Autumn,Rainy,11065
+Akasa Air,Business,25kg,Autumn,Snowy,6990
+GoAir,Economy,30kg,Autumn,Rainy,4557
+Akasa Air,Business,30kg,Spring,Windy,14504
+Vistara,Economy,25kg,Spring,Stormy,6873
+Akasa Air,Economy,20kg,Summer,Clear,4411
+Vistara,Economy,25kg,Spring,Windy,5863
+Vistara,Economy,15kg,Summer,Rainy,8900
+IndiGo,Business,25kg,Summer,Windy,14952
+SpiceJet,Economy,15kg,Autumn,Foggy,8792
+Vistara,Business,15kg,Spring,Foggy,8681
+Air India,Business,20kg,Spring,Clear,8437
+SpiceJet,Economy,15kg,Spring,Snowy,6237
+Vistara,Business,15kg,Spring,Clear,11765
+GoAir,Economy,30kg,Spring,Stormy,6201
+Vistara,Economy,20kg,Spring,Snowy,3295
+GoAir,Economy,15kg,Summer,Rainy,6737
+SpiceJet,Business,30kg,Spring,Stormy,15811
+Air India,Economy,30kg,Winter,Windy,5194
+Akasa Air,Business,30kg,Autumn,Windy,9280
+SpiceJet,Business,15kg,Summer,Rainy,12359
+Akasa Air,Economy,15kg,Winter,Rainy,5876
+AirAsia India,Economy,20kg,Summer,Windy,6758
+IndiGo,Business,20kg,Spring,Foggy,13505
+IndiGo,Economy,25kg,Summer,Stormy,3110
+Air India,Economy,15kg,Spring,Snowy,8264
+Vistara,Business,20kg,Winter,Snowy,13233
+Akasa Air,Business,30kg,Summer,Foggy,13463
+SpiceJet,Economy,15kg,Summer,Windy,9046
+Akasa Air,Economy,25kg,Winter,Stormy,4003
+Vistara,Business,15kg,Winter,Clear,10348
+Vistara,Economy,25kg,Spring,Rainy,5736
+SpiceJet,Economy,25kg,Winter,Foggy,7912
+Air India,Economy,30kg,Spring,Foggy,8703
+GoAir,Economy,30kg,Winter,Rainy,6404
+GoAir,Business,30kg,Spring,Stormy,12691
+GoAir,Business,15kg,Winter,Windy,8581
+SpiceJet,Economy,30kg,Winter,Snowy,5196
+AirAsia India,Business,15kg,Summer,Snowy,7450
+GoAir,Economy,25kg,Autumn,Rainy,10435
+GoAir,Economy,25kg,Winter,Foggy,3178
+Air India,Business,20kg,Winter,Clear,12288
+Akasa Air,Economy,25kg,Winter,Clear,6810
+Akasa Air,Economy,25kg,Autumn,Stormy,5501
+GoAir,Economy,30kg,Winter,Snowy,8274
+AirAsia India,Economy,20kg,Autumn,Rainy,6555
+AirAsia India,Economy,20kg,Winter,Stormy,4766
+Air India,Economy,20kg,Summer,Snowy,4823
+SpiceJet,Business,15kg,Autumn,Snowy,12469
+Vistara,Business,30kg,Spring,Foggy,13215
+IndiGo,Business,25kg,Autumn,Stormy,9257
+AirAsia India,Business,15kg,Winter,Snowy,11515
+Vistara,Economy,20kg,Spring,Rainy,4534
+GoAir,Business,15kg,Summer,Foggy,15258
+GoAir,Economy,20kg,Autumn,Foggy,6230
+Vistara,Business,15kg,Winter,Rainy,14119
+Akasa Air,Business,20kg,Winter,Clear,7441
+Vistara,Economy,15kg,Winter,Clear,8804
+IndiGo,Business,30kg,Summer,Windy,11206
+Air India,Economy,25kg,Autumn,Rainy,6029
+SpiceJet,Economy,25kg,Spring,Rainy,8153
+GoAir,Business,20kg,Winter,Foggy,7892
+Akasa Air,Business,20kg,Spring,Snowy,12512
+Akasa Air,Business,20kg,Summer,Stormy,12323
+Akasa Air,Business,15kg,Autumn,Clear,11965
+GoAir,Business,30kg,Spring,Stormy,10086
+IndiGo,Economy,25kg,Autumn,Foggy,8245
+GoAir,Economy,15kg,Summer,Snowy,4343
+Vistara,Business,15kg,Spring,Rainy,13716
+AirAsia India,Business,20kg,Spring,Clear,18257
+Akasa Air,Economy,20kg,Autumn,Stormy,5456
+Akasa Air,Economy,15kg,Autumn,Windy,6279
+IndiGo,Economy,25kg,Winter,Stormy,5034
+Akasa Air,Economy,30kg,Winter,Clear,4433
+GoAir,Business,15kg,Winter,Clear,14434
+Air India,Economy,15kg,Autumn,Windy,7467
+GoAir,Business,25kg,Autumn,Stormy,11208
+Air India,Economy,25kg,Summer,Foggy,7629
+Air India,Business,30kg,Autumn,Stormy,6635
+Akasa Air,Economy,20kg,Winter,Stormy,6151
+IndiGo,Economy,15kg,Summer,Stormy,3259
+IndiGo,Business,20kg,Autumn,Windy,8838
+Air India,Economy,15kg,Spring,Foggy,8448
+IndiGo,Business,20kg,Summer,Stormy,11693
+SpiceJet,Business,30kg,Spring,Snowy,17010
+Vistara,Economy,25kg,Spring,Stormy,5324
+Vistara,Economy,20kg,Spring,Clear,6337
+Vistara,Economy,15kg,Autumn,Windy,8198
+GoAir,Business,30kg,Autumn,Clear,16530
+GoAir,Economy,30kg,Summer,Rainy,7855
+Akasa Air,Economy,25kg,Summer,Clear,8444
+Vistara,Economy,15kg,Autumn,Snowy,3616
+SpiceJet,Economy,25kg,Summer,Stormy,5013
+Vistara,Business,20kg,Spring,Windy,15729
+Air India,Business,20kg,Spring,Snowy,9701
+AirAsia India,Economy,25kg,Summer,Windy,7855
+Vistara,Business,25kg,Winter,Stormy,7997
+IndiGo,Economy,25kg,Winter,Clear,6989
+IndiGo,Economy,25kg,Autumn,Clear,7037
+Air India,Economy,20kg,Summer,Snowy,5337
+AirAsia India,Economy,20kg,Summer,Clear,7529
+GoAir,Business,20kg,Winter,Foggy,12156
+Air India,Economy,20kg,Winter,Rainy,6655
+GoAir,Economy,25kg,Spring,Stormy,6437
+Vistara,Economy,30kg,Spring,Stormy,6171
+IndiGo,Economy,20kg,Winter,Rainy,5394
+AirAsia India,Economy,30kg,Winter,Snowy,5309
+SpiceJet,Business,20kg,Autumn,Rainy,16209
+GoAir,Business,15kg,Autumn,Rainy,15137
+Vistara,Economy,15kg,Spring,Stormy,3630
+Vistara,Business,20kg,Winter,Foggy,14382
+AirAsia India,Economy,15kg,Summer,Stormy,3126
+Air India,Economy,25kg,Spring,Stormy,3598
+SpiceJet,Business,15kg,Winter,Clear,12983
+Air India,Business,15kg,Autumn,Foggy,10862
+GoAir,Economy,15kg,Spring,Snowy,5329
+SpiceJet,Economy,30kg,Winter,Rainy,4867
+Vistara,Economy,20kg,Summer,Stormy,6621
+Air India,Business,20kg,Winter,Windy,6435
+Vistara,Economy,30kg,Summer,Windy,8124
+SpiceJet,Economy,30kg,Summer,Foggy,6895
+Akasa Air,Business,25kg,Autumn,Foggy,11044
+Akasa Air,Business,25kg,Summer,Clear,14487
+Air India,Business,25kg,Spring,Stormy,5903
+AirAsia India,Economy,30kg,Spring,Foggy,5953
+GoAir,Economy,15kg,Summer,Snowy,4612
+SpiceJet,Business,20kg,Spring,Snowy,5817
+Akasa Air,Business,20kg,Spring,Clear,12295
+IndiGo,Business,15kg,Winter,Windy,11824
+GoAir,Economy,30kg,Summer,Foggy,9019
+Akasa Air,Business,25kg,Summer,Foggy,13814
+GoAir,Business,15kg,Spring,Foggy,12773
+Air India,Business,25kg,Winter,Stormy,16333
+GoAir,Business,20kg,Spring,Rainy,10694
+Akasa Air,Economy,25kg,Autumn,Clear,4986
+SpiceJet,Economy,20kg,Winter,Rainy,7505
+GoAir,Economy,15kg,Spring,Foggy,7677
+AirAsia India,Business,15kg,Summer,Foggy,8542
+GoAir,Economy,30kg,Spring,Stormy,7275
+Akasa Air,Business,20kg,Autumn,Foggy,9970
+AirAsia India,Business,20kg,Summer,Snowy,6985
+IndiGo,Economy,15kg,Summer,Rainy,8297
+SpiceJet,Economy,25kg,Winter,Clear,7843
+Vistara,Economy,20kg,Spring,Windy,9195
+Vistara,Economy,20kg,Autumn,Snowy,7105
+GoAir,Business,25kg,Autumn,Windy,10206
+Vistara,Business,25kg,Spring,Snowy,8145
+Vistara,Economy,25kg,Autumn,Foggy,4001
+Akasa Air,Economy,20kg,Winter,Clear,8750
+SpiceJet,Economy,15kg,Spring,Clear,6042
+SpiceJet,Business,15kg,Winter,Clear,15087
+IndiGo,Business,15kg,Spring,Foggy,10897
+IndiGo,Business,25kg,Summer,Clear,7434
+Akasa Air,Business,15kg,Autumn,Windy,10284
+Vistara,Economy,30kg,Autumn,Snowy,3103
+IndiGo,Business,15kg,Autumn,Windy,16715
+AirAsia India,Business,15kg,Winter,Snowy,7170
+Vistara,Economy,15kg,Summer,Snowy,6410
+SpiceJet,Economy,30kg,Summer,Snowy,4296
+IndiGo,Economy,20kg,Winter,Foggy,7536
+SpiceJet,Business,20kg,Autumn,Foggy,12520
+SpiceJet,Economy,30kg,Spring,Clear,6095
+Akasa Air,Economy,25kg,Autumn,Windy,5656
+IndiGo,Economy,20kg,Spring,Snowy,6013
+SpiceJet,Business,20kg,Winter,Clear,5461
+Akasa Air,Economy,15kg,Spring,Windy,7147
+Vistara,Business,20kg,Winter,Foggy,8509
+Vistara,Business,15kg,Summer,Windy,11093
+GoAir,Business,15kg,Summer,Rainy,13665
+Akasa Air,Business,20kg,Summer,Snowy,8691
+Air India,Economy,25kg,Winter,Rainy,4878
+Akasa Air,Business,25kg,Winter,Snowy,8494
+GoAir,Business,25kg,Autumn,Stormy,11750
+GoAir,Economy,20kg,Summer,Stormy,3665
+Akasa Air,Economy,30kg,Spring,Windy,4323
+Air India,Business,30kg,Winter,Clear,13547
+Akasa Air,Business,15kg,Summer,Stormy,6807
+Air India,Economy,25kg,Summer,Clear,10241
+Air India,Economy,15kg,Winter,Rainy,5626
+Air India,Economy,20kg,Autumn,Stormy,5448
+Air India,Economy,15kg,Autumn,Stormy,4728
+IndiGo,Economy,20kg,Summer,Windy,4798
+GoAir,Economy,25kg,Winter,Rainy,3369
+IndiGo,Economy,15kg,Spring,Rainy,9237
+Vistara,Economy,15kg,Autumn,Windy,4120
+Vistara,Business,15kg,Winter,Windy,16382
+GoAir,Business,30kg,Winter,Foggy,12321
+Air India,Business,30kg,Spring,Rainy,10442
+Akasa Air,Business,30kg,Spring,Clear,18787
+Akasa Air,Business,30kg,Autumn,Windy,15686
+Air India,Economy,20kg,Autumn,Foggy,6752
+SpiceJet,Business,25kg,Autumn,Stormy,11282
+Vistara,Economy,25kg,Summer,Windy,5535
+AirAsia India,Business,25kg,Spring,Stormy,5930
+Air India,Economy,20kg,Winter,Foggy,6825
+Vistara,Business,25kg,Spring,Rainy,8019
+IndiGo,Business,20kg,Summer,Foggy,10759
+SpiceJet,Business,30kg,Autumn,Windy,14504
+Air India,Business,30kg,Spring,Windy,15413
+GoAir,Economy,30kg,Winter,Clear,4351
+GoAir,Economy,30kg,Winter,Foggy,3753
+Air India,Economy,30kg,Autumn,Foggy,6931
+Air India,Business,30kg,Autumn,Snowy,10136
+Vistara,Business,15kg,Winter,Clear,12806
+AirAsia India,Economy,20kg,Autumn,Snowy,3343
+Air India,Economy,30kg,Autumn,Windy,5957
+AirAsia India,Business,25kg,Summer,Clear,7104
+AirAsia India,Business,15kg,Winter,Windy,7919
+IndiGo,Business,25kg,Spring,Windy,9332
+IndiGo,Business,25kg,Autumn,Rainy,7635
+Air India,Economy,15kg,Spring,Clear,10515
+Vistara,Economy,20kg,Winter,Windy,6530
+GoAir,Economy,15kg,Spring,Snowy,5684
+IndiGo,Economy,20kg,Winter,Windy,6804
+IndiGo,Economy,15kg,Summer,Clear,4663
+Air India,Economy,20kg,Winter,Clear,5668
+AirAsia India,Business,30kg,Winter,Rainy,12790
+GoAir,Economy,25kg,Autumn,Stormy,4566
+GoAir,Economy,20kg,Winter,Clear,7202
+Vistara,Business,30kg,Spring,Rainy,9482
+Air India,Business,20kg,Winter,Rainy,9038
+Akasa Air,Economy,25kg,Summer,Stormy,4419
+AirAsia India,Business,15kg,Summer,Stormy,9790
+GoAir,Economy,20kg,Spring,Clear,6538
+GoAir,Business,30kg,Winter,Snowy,13220
+Air India,Business,15kg,Autumn,Clear,12424
+IndiGo,Business,20kg,Autumn,Clear,8832
+AirAsia India,Economy,25kg,Summer,Stormy,6648
+Akasa Air,Business,25kg,Winter,Windy,8532
+IndiGo,Business,25kg,Spring,Foggy,6563
+Vistara,Economy,15kg,Winter,Stormy,6594
+Akasa Air,Business,20kg,Spring,Windy,7938
+SpiceJet,Business,25kg,Spring,Stormy,11625
+SpiceJet,Business,15kg,Spring,Stormy,11945
+AirAsia India,Business,30kg,Summer,Stormy,15404
+SpiceJet,Business,25kg,Spring,Rainy,13856
+SpiceJet,Business,15kg,Summer,Stormy,15495
+AirAsia India,Economy,15kg,Autumn,Windy,9330
+GoAir,Economy,20kg,Spring,Snowy,3642
+Akasa Air,Economy,30kg,Winter,Rainy,9391
+GoAir,Economy,30kg,Summer,Stormy,5742
+SpiceJet,Economy,15kg,Summer,Snowy,4314
+GoAir,Economy,25kg,Spring,Foggy,6961
+GoAir,Economy,15kg,Spring,Snowy,3636
+Air India,Business,20kg,Winter,Rainy,11244
+SpiceJet,Economy,30kg,Winter,Clear,4825
+IndiGo,Business,20kg,Winter,Snowy,7963
+Akasa Air,Economy,25kg,Summer,Snowy,7567
+GoAir,Economy,25kg,Spring,Snowy,5167
+Vistara,Economy,25kg,Spring,Rainy,10166
+SpiceJet,Business,20kg,Spring,Foggy,8166
+GoAir,Economy,20kg,Autumn,Rainy,7100
+Akasa Air,Economy,25kg,Winter,Rainy,7785
+IndiGo,Economy,15kg,Winter,Windy,6687
+Vistara,Economy,15kg,Summer,Snowy,5623
+GoAir,Economy,30kg,Spring,Snowy,7827
+AirAsia India,Economy,30kg,Winter,Windy,4236
+IndiGo,Business,20kg,Winter,Snowy,7111
+Vistara,Business,15kg,Spring,Windy,15353
+Air India,Business,30kg,Winter,Snowy,7983
+GoAir,Economy,15kg,Autumn,Snowy,7631
+Air India,Business,25kg,Summer,Windy,6812
+AirAsia India,Business,25kg,Spring,Stormy,8100
+GoAir,Business,30kg,Summer,Stormy,9095
+Air India,Economy,30kg,Spring,Foggy,5900
+GoAir,Business,30kg,Winter,Rainy,9896
+SpiceJet,Business,25kg,Spring,Stormy,6457
+AirAsia India,Business,25kg,Autumn,Clear,11202
+AirAsia India,Economy,30kg,Autumn,Windy,6217
+GoAir,Business,30kg,Winter,Stormy,8611
+GoAir,Economy,25kg,Autumn,Stormy,3144
+IndiGo,Economy,15kg,Summer,Foggy,5135
+Vistara,Business,30kg,Winter,Clear,11127
+Vistara,Economy,20kg,Summer,Stormy,6116
+Akasa Air,Business,20kg,Winter,Windy,5684
+Air India,Economy,20kg,Spring,Clear,3837
+AirAsia India,Business,15kg,Winter,Windy,10973
+SpiceJet,Business,25kg,Winter,Clear,18898
+Akasa Air,Economy,30kg,Autumn,Clear,6426
+GoAir,Economy,25kg,Winter,Snowy,6011
+Air India,Business,30kg,Summer,Stormy,9988
+Air India,Economy,25kg,Winter,Foggy,6313
+Akasa Air,Business,30kg,Summer,Foggy,6256
+IndiGo,Economy,30kg,Spring,Clear,8989
+GoAir,Economy,15kg,Autumn,Windy,8219
+SpiceJet,Economy,20kg,Autumn,Stormy,3684
+SpiceJet,Economy,15kg,Spring,Rainy,4156
+GoAir,Business,25kg,Spring,Foggy,16078
+Air India,Business,20kg,Winter,Foggy,12680
+AirAsia India,Economy,25kg,Spring,Stormy,5897
+SpiceJet,Business,20kg,Winter,Snowy,8265
+SpiceJet,Business,15kg,Winter,Stormy,10565
+AirAsia India,Economy,30kg,Winter,Snowy,6765
+Air India,Business,30kg,Winter,Snowy,10212
+AirAsia India,Business,30kg,Summer,Snowy,7382
+IndiGo,Economy,30kg,Winter,Rainy,6534
+Air India,Business,30kg,Summer,Foggy,8550
+AirAsia India,Economy,15kg,Summer,Windy,7758
+Air India,Business,20kg,Winter,Rainy,7639
+Akasa Air,Business,15kg,Spring,Windy,11725
+Vistara,Business,20kg,Winter,Snowy,8705
+AirAsia India,Economy,30kg,Spring,Snowy,4514
+Vistara,Business,25kg,Summer,Rainy,13921
+Vistara,Business,30kg,Spring,Stormy,13177
+IndiGo,Economy,15kg,Spring,Clear,3462
+Akasa Air,Business,30kg,Summer,Windy,7674
+IndiGo,Business,15kg,Summer,Rainy,7943
+GoAir,Economy,30kg,Spring,Rainy,6418
+SpiceJet,Business,30kg,Spring,Rainy,11723
+Akasa Air,Economy,30kg,Winter,Foggy,7367
+GoAir,Business,25kg,Autumn,Snowy,7408
+Air India,Economy,15kg,Winter,Windy,5966
+Air India,Economy,15kg,Spring,Stormy,3897
+AirAsia India,Business,20kg,Autumn,Foggy,9694
+SpiceJet,Business,30kg,Spring,Clear,14074
+IndiGo,Economy,20kg,Summer,Stormy,6930
+IndiGo,Business,15kg,Summer,Rainy,10257
+Akasa Air,Business,30kg,Winter,Rainy,9315
+GoAir,Business,15kg,Autumn,Windy,18140
+GoAir,Business,30kg,Winter,Snowy,12523
+AirAsia India,Business,15kg,Autumn,Windy,9288
+IndiGo,Business,20kg,Winter,Windy,10387
+Akasa Air,Economy,30kg,Summer,Rainy,5591
+SpiceJet,Business,20kg,Spring,Windy,14101
+Akasa Air,Business,30kg,Spring,Rainy,12737
+AirAsia India,Business,25kg,Autumn,Rainy,9525
+AirAsia India,Economy,25kg,Winter,Snowy,5146
+Akasa Air,Business,20kg,Spring,Stormy,13908
+GoAir,Economy,15kg,Autumn,Snowy,6437
+Vistara,Business,25kg,Summer,Windy,8833
+Vistara,Business,25kg,Spring,Stormy,14136
+SpiceJet,Business,30kg,Spring,Foggy,16519
+Vistara,Economy,20kg,Autumn,Snowy,3983
+SpiceJet,Business,15kg,Autumn,Rainy,13872
+IndiGo,Business,20kg,Spring,Clear,7737
+IndiGo,Business,15kg,Winter,Rainy,17727
+AirAsia India,Business,20kg,Spring,Stormy,16557
+Akasa Air,Business,15kg,Winter,Stormy,8282
+Akasa Air,Economy,30kg,Winter,Rainy,4373
+AirAsia India,Economy,20kg,Summer,Stormy,7079
+SpiceJet,Economy,20kg,Winter,Snowy,4296
+Air India,Business,20kg,Winter,Rainy,13288
+AirAsia India,Economy,20kg,Autumn,Snowy,7848
+Vistara,Economy,15kg,Spring,Clear,6186
+AirAsia India,Economy,30kg,Summer,Stormy,7167
+Air India,Economy,15kg,Summer,Stormy,9229
+AirAsia India,Economy,25kg,Winter,Foggy,6913
+GoAir,Business,20kg,Winter,Foggy,12520
+IndiGo,Economy,25kg,Spring,Windy,8753
+IndiGo,Economy,15kg,Autumn,Foggy,3518
+Akasa Air,Economy,20kg,Winter,Clear,5402
+Air India,Business,15kg,Winter,Clear,18701
+Akasa Air,Economy,15kg,Autumn,Foggy,5539
+Vistara,Economy,25kg,Spring,Foggy,4877
+GoAir,Economy,30kg,Spring,Windy,3346
+SpiceJet,Economy,15kg,Spring,Rainy,5001
+GoAir,Business,20kg,Spring,Windy,8535
+AirAsia India,Economy,25kg,Winter,Clear,7455
+Akasa Air,Economy,30kg,Summer,Clear,7113
+IndiGo,Business,20kg,Autumn,Stormy,5934
+AirAsia India,Business,25kg,Winter,Snowy,7726
+Vistara,Business,30kg,Spring,Clear,13678
+AirAsia India,Business,20kg,Spring,Clear,12822
+Air India,Economy,15kg,Winter,Foggy,7284
+Vistara,Economy,15kg,Spring,Stormy,5079
+GoAir,Business,15kg,Summer,Stormy,9171
+AirAsia India,Economy,25kg,Summer,Snowy,4351
+Vistara,Economy,30kg,Spring,Rainy,5800
+AirAsia India,Economy,25kg,Winter,Windy,5508
+IndiGo,Business,25kg,Summer,Stormy,9360
+Air India,Business,20kg,Spring,Windy,9511
+GoAir,Economy,15kg,Winter,Snowy,6062
+Akasa Air,Business,15kg,Spring,Foggy,14365
+Air India,Economy,20kg,Winter,Foggy,5558
+IndiGo,Business,15kg,Spring,Snowy,11844
+Akasa Air,Business,25kg,Summer,Windy,13307
+GoAir,Business,15kg,Winter,Rainy,10171
+Vistara,Business,30kg,Spring,Rainy,9730
+IndiGo,Economy,20kg,Summer,Foggy,5954
+AirAsia India,Economy,30kg,Winter,Rainy,7652
+SpiceJet,Business,15kg,Winter,Windy,8876
+SpiceJet,Business,25kg,Summer,Stormy,15237
+GoAir,Business,20kg,Winter,Stormy,9438
+Air India,Business,30kg,Autumn,Rainy,10986
+Air India,Economy,25kg,Spring,Snowy,5549
+GoAir,Business,25kg,Autumn,Clear,10399
+GoAir,Economy,30kg,Winter,Foggy,4818
+SpiceJet,Economy,30kg,Summer,Stormy,5569
+IndiGo,Business,30kg,Spring,Clear,9401
+GoAir,Business,30kg,Summer,Windy,10288
+Akasa Air,Economy,25kg,Autumn,Rainy,3605
+SpiceJet,Economy,30kg,Winter,Snowy,4708
+GoAir,Economy,20kg,Winter,Clear,4878
+IndiGo,Business,20kg,Spring,Windy,9957
+AirAsia India,Economy,25kg,Summer,Foggy,4976
+GoAir,Economy,25kg,Autumn,Clear,5934
+GoAir,Economy,25kg,Autumn,Snowy,6891
+AirAsia India,Economy,25kg,Autumn,Stormy,5539
+Vistara,Business,20kg,Spring,Windy,13574
+Akasa Air,Business,20kg,Summer,Foggy,7229
+Akasa Air,Economy,20kg,Winter,Foggy,8112
+Akasa Air,Business,15kg,Summer,Windy,12297
+IndiGo,Economy,20kg,Summer,Foggy,4659
+IndiGo,Economy,30kg,Winter,Clear,7072
+SpiceJet,Business,25kg,Autumn,Stormy,9071
+IndiGo,Business,25kg,Summer,Foggy,13945
+Air India,Economy,30kg,Winter,Foggy,6855
+Vistara,Economy,30kg,Autumn,Windy,3845
+AirAsia India,Economy,15kg,Summer,Windy,5211
+IndiGo,Business,20kg,Autumn,Snowy,7981
+AirAsia India,Economy,30kg,Winter,Clear,4101
+Akasa Air,Economy,15kg,Summer,Windy,4160
+AirAsia India,Business,20kg,Spring,Snowy,9374
+IndiGo,Economy,30kg,Winter,Clear,6865
+Vistara,Economy,15kg,Winter,Rainy,9096
+SpiceJet,Economy,30kg,Summer,Stormy,9260
+SpiceJet,Economy,25kg,Summer,Clear,4120
+Vistara,Business,15kg,Autumn,Stormy,6492
+Akasa Air,Economy,20kg,Autumn,Rainy,9237
+Air India,Economy,15kg,Spring,Clear,6624
+SpiceJet,Business,30kg,Autumn,Stormy,13196
+AirAsia India,Economy,20kg,Summer,Rainy,5478
+GoAir,Economy,30kg,Summer,Windy,6919
+GoAir,Business,20kg,Spring,Snowy,10585
+GoAir,Economy,15kg,Autumn,Snowy,6151
+IndiGo,Economy,15kg,Summer,Windy,8380
+Vistara,Business,25kg,Spring,Rainy,8331
+Vistara,Business,20kg,Winter,Stormy,15473
+AirAsia India,Business,20kg,Spring,Rainy,11143
+IndiGo,Business,30kg,Spring,Foggy,6719
+AirAsia India,Economy,15kg,Winter,Stormy,8786
+AirAsia India,Economy,15kg,Summer,Foggy,6522
+Air India,Business,25kg,Spring,Rainy,5940
+Air India,Business,30kg,Autumn,Clear,6739
+AirAsia India,Business,15kg,Spring,Windy,14966
+Air India,Economy,15kg,Winter,Snowy,4759
+Air India,Economy,25kg,Spring,Windy,9863
+AirAsia India,Economy,30kg,Summer,Windy,5012
+GoAir,Business,20kg,Winter,Clear,16035
+Akasa Air,Business,30kg,Summer,Snowy,14072
+Vistara,Economy,25kg,Winter,Windy,4481
+IndiGo,Business,25kg,Summer,Stormy,11483
+Air India,Economy,20kg,Winter,Foggy,5229
+IndiGo,Economy,25kg,Summer,Foggy,9393
+SpiceJet,Economy,20kg,Spring,Foggy,7864
+GoAir,Business,15kg,Spring,Snowy,8675
+SpiceJet,Business,30kg,Autumn,Snowy,7670
+Air India,Business,30kg,Winter,Snowy,6614
+IndiGo,Business,20kg,Summer,Foggy,16685
+Vistara,Business,15kg,Autumn,Snowy,7003
+Akasa Air,Business,30kg,Summer,Stormy,9113
+Vistara,Business,15kg,Autumn,Snowy,11012
+Akasa Air,Economy,25kg,Winter,Snowy,6869
+GoAir,Business,25kg,Spring,Rainy,15297
+SpiceJet,Economy,30kg,Winter,Stormy,8095
+AirAsia India,Business,30kg,Summer,Snowy,6656
+Air India,Economy,20kg,Winter,Rainy,10062
+AirAsia India,Economy,20kg,Winter,Clear,6087
+SpiceJet,Economy,20kg,Autumn,Foggy,9223
+Akasa Air,Business,15kg,Winter,Windy,14251
+AirAsia India,Business,25kg,Autumn,Stormy,8010
+Air India,Economy,30kg,Summer,Foggy,3562
+Vistara,Economy,30kg,Autumn,Snowy,6856
+IndiGo,Economy,20kg,Spring,Clear,6627
+AirAsia India,Economy,30kg,Summer,Foggy,6828
+Air India,Economy,25kg,Spring,Foggy,8936
+IndiGo,Business,20kg,Winter,Windy,8472
+Air India,Economy,25kg,Autumn,Rainy,5430
+Vistara,Business,30kg,Winter,Clear,18827
+IndiGo,Economy,15kg,Spring,Stormy,6918
+AirAsia India,Economy,20kg,Spring,Foggy,3994
+Air India,Economy,15kg,Spring,Windy,9257
+GoAir,Economy,15kg,Spring,Clear,8814
+Akasa Air,Business,15kg,Autumn,Rainy,13998
+IndiGo,Business,15kg,Summer,Windy,16099
+AirAsia India,Economy,30kg,Summer,Stormy,3312
+SpiceJet,Economy,30kg,Autumn,Windy,8900
+AirAsia India,Business,20kg,Winter,Foggy,8785
+Air India,Economy,20kg,Spring,Snowy,3794
+Akasa Air,Economy,25kg,Spring,Rainy,9558
+GoAir,Economy,25kg,Autumn,Foggy,7709
+SpiceJet,Business,25kg,Summer,Foggy,14904
+SpiceJet,Economy,30kg,Spring,Stormy,3502
+SpiceJet,Business,15kg,Spring,Snowy,8812
+SpiceJet,Business,25kg,Autumn,Snowy,7523
+IndiGo,Business,25kg,Summer,Windy,14716
+Vistara,Economy,15kg,Summer,Snowy,3610
+SpiceJet,Economy,15kg,Spring,Rainy,4233
+Air India,Economy,25kg,Winter,Snowy,6872
+GoAir,Business,30kg,Spring,Stormy,10512
+Air India,Business,30kg,Winter,Rainy,12376
+Air India,Business,20kg,Autumn,Foggy,6308
+Akasa Air,Business,25kg,Summer,Windy,15451
+GoAir,Business,15kg,Spring,Stormy,12657
+Vistara,Business,15kg,Summer,Foggy,12935
+Vistara,Economy,15kg,Spring,Foggy,5217
+IndiGo,Economy,30kg,Spring,Foggy,7666
+GoAir,Business,20kg,Summer,Rainy,6914
+AirAsia India,Business,20kg,Winter,Windy,11078
+Air India,Business,30kg,Summer,Clear,10925
+Akasa Air,Business,25kg,Summer,Foggy,14486
+AirAsia India,Business,20kg,Winter,Clear,12062
+Vistara,Economy,20kg,Winter,Foggy,5625
+Vistara,Business,15kg,Summer,Foggy,8243
+Air India,Business,20kg,Summer,Foggy,10602
+IndiGo,Economy,15kg,Winter,Clear,6127
+AirAsia India,Economy,15kg,Autumn,Clear,5658
+Vistara,Business,30kg,Summer,Snowy,14992
+AirAsia India,Business,20kg,Spring,Clear,9560
+SpiceJet,Business,20kg,Winter,Snowy,5953
+Akasa Air,Economy,15kg,Winter,Foggy,5384
+AirAsia India,Business,30kg,Summer,Stormy,7471
+GoAir,Business,25kg,Summer,Clear,17368
+GoAir,Economy,25kg,Spring,Stormy,4723
+AirAsia India,Business,25kg,Winter,Clear,7902
+Vistara,Business,15kg,Winter,Foggy,6778
+Akasa Air,Business,20kg,Spring,Foggy,9245
+AirAsia India,Business,30kg,Autumn,Rainy,15688
+GoAir,Business,25kg,Spring,Foggy,8540
+Air India,Economy,30kg,Summer,Windy,5383
+GoAir,Economy,25kg,Autumn,Rainy,9031
+Vistara,Economy,30kg,Spring,Stormy,3629
+GoAir,Economy,15kg,Summer,Snowy,4834
+IndiGo,Economy,20kg,Winter,Snowy,3972
+AirAsia India,Business,25kg,Autumn,Windy,11525
+Air India,Business,30kg,Summer,Clear,13224
+IndiGo,Economy,15kg,Spring,Windy,5162
+GoAir,Business,25kg,Winter,Windy,12605
+Vistara,Business,30kg,Spring,Snowy,11746
+Air India,Business,30kg,Spring,Clear,12699
+Air India,Economy,20kg,Autumn,Windy,9773
+IndiGo,Business,25kg,Spring,Clear,10536
+GoAir,Economy,20kg,Summer,Snowy,6213
+GoAir,Economy,20kg,Summer,Stormy,6099
+GoAir,Business,30kg,Autumn,Snowy,6399
+Akasa Air,Business,30kg,Spring,Clear,12866
+IndiGo,Economy,25kg,Summer,Snowy,4396
+Akasa Air,Economy,15kg,Summer,Windy,6406
+Akasa Air,Economy,30kg,Spring,Clear,9913
+IndiGo,Business,20kg,Winter,Stormy,12538
+SpiceJet,Business,25kg,Spring,Rainy,10670
+AirAsia India,Economy,15kg,Autumn,Stormy,3298
+GoAir,Business,25kg,Summer,Windy,9354
+Akasa Air,Economy,25kg,Autumn,Windy,4849
+AirAsia India,Business,15kg,Autumn,Stormy,12478
+SpiceJet,Economy,15kg,Autumn,Stormy,6564
+IndiGo,Economy,15kg,Spring,Snowy,4845
+GoAir,Economy,25kg,Spring,Rainy,7964
+Akasa Air,Economy,20kg,Autumn,Windy,4077
+Vistara,Economy,20kg,Autumn,Foggy,3906
+SpiceJet,Business,30kg,Winter,Rainy,9942
+Akasa Air,Economy,25kg,Spring,Snowy,4712
+GoAir,Business,25kg,Summer,Windy,7248
+GoAir,Economy,30kg,Spring,Snowy,6404
+SpiceJet,Business,15kg,Winter,Windy,16040
+Akasa Air,Economy,25kg,Summer,Rainy,4190
+Vistara,Business,15kg,Autumn,Rainy,12597
+Akasa Air,Business,15kg,Winter,Clear,11499
+Akasa Air,Economy,30kg,Winter,Foggy,8904
+Akasa Air,Business,15kg,Summer,Foggy,11489
+SpiceJet,Business,25kg,Winter,Stormy,7115
+Air India,Business,25kg,Autumn,Rainy,9040
+IndiGo,Business,30kg,Spring,Snowy,13525
+AirAsia India,Economy,20kg,Autumn,Rainy,7691
+AirAsia India,Economy,25kg,Winter,Windy,4455
+SpiceJet,Business,30kg,Autumn,Clear,17575
+IndiGo,Business,15kg,Summer,Foggy,10823
+SpiceJet,Business,20kg,Winter,Windy,16211
+Akasa Air,Business,30kg,Summer,Clear,7898
+Vistara,Business,20kg,Autumn,Foggy,13761
+GoAir,Economy,30kg,Spring,Windy,8193
+Akasa Air,Economy,25kg,Summer,Windy,9280
+SpiceJet,Economy,15kg,Winter,Rainy,8039
+Air India,Business,30kg,Winter,Windy,12371
+Akasa Air,Economy,15kg,Autumn,Stormy,3375
+GoAir,Economy,25kg,Spring,Windy,7504
+SpiceJet,Business,20kg,Spring,Windy,11509
+GoAir,Economy,20kg,Summer,Foggy,4886
+GoAir,Business,25kg,Winter,Snowy,14049
+GoAir,Economy,25kg,Spring,Windy,4628
+Vistara,Economy,30kg,Summer,Foggy,3419
+AirAsia India,Business,25kg,Summer,Clear,7664
+AirAsia India,Business,15kg,Spring,Stormy,13427
+SpiceJet,Economy,20kg,Spring,Windy,3850
+IndiGo,Business,20kg,Autumn,Windy,18525
+GoAir,Economy,30kg,Spring,Windy,7436
+IndiGo,Business,30kg,Winter,Snowy,6949
+SpiceJet,Economy,25kg,Winter,Foggy,3580
+AirAsia India,Economy,30kg,Summer,Rainy,6280
+Vistara,Economy,15kg,Autumn,Snowy,6150
+Vistara,Economy,20kg,Winter,Foggy,6095
+IndiGo,Business,30kg,Autumn,Windy,7927
+IndiGo,Business,15kg,Autumn,Snowy,13872
+Air India,Business,20kg,Winter,Clear,8458
+SpiceJet,Economy,30kg,Winter,Foggy,8096
+GoAir,Business,20kg,Summer,Stormy,15995
+AirAsia India,Business,25kg,Winter,Foggy,14011
+Air India,Business,20kg,Spring,Snowy,9255
+Akasa Air,Economy,25kg,Winter,Stormy,5853
+Akasa Air,Economy,20kg,Autumn,Clear,7547
+Vistara,Economy,30kg,Winter,Snowy,5214
+IndiGo,Economy,30kg,Autumn,Clear,4464
+IndiGo,Business,15kg,Summer,Windy,14897
+AirAsia India,Economy,15kg,Autumn,Foggy,5236
+Air India,Economy,15kg,Summer,Clear,6579
+GoAir,Economy,30kg,Winter,Windy,9139
+AirAsia India,Economy,15kg,Autumn,Windy,6079
+SpiceJet,Economy,25kg,Spring,Foggy,6559
+Vistara,Economy,25kg,Autumn,Clear,7779
+Vistara,Economy,20kg,Winter,Rainy,5712
+IndiGo,Economy,20kg,Winter,Snowy,4193
+GoAir,Business,15kg,Spring,Stormy,8667
+SpiceJet,Economy,20kg,Autumn,Rainy,7204
+GoAir,Business,20kg,Autumn,Windy,13500
+GoAir,Economy,15kg,Summer,Rainy,6045
+GoAir,Economy,25kg,Winter,Snowy,6534
+Akasa Air,Business,15kg,Winter,Clear,14070
+AirAsia India,Economy,15kg,Autumn,Foggy,3972
+Vistara,Economy,25kg,Spring,Windy,6354
+Air India,Business,30kg,Autumn,Snowy,6919
+SpiceJet,Business,25kg,Winter,Snowy,14040
+Air India,Economy,30kg,Winter,Windy,3731
+AirAsia India,Economy,20kg,Summer,Foggy,3468
+AirAsia India,Economy,30kg,Spring,Clear,7023
+AirAsia India,Economy,30kg,Autumn,Snowy,6019
+AirAsia India,Business,30kg,Winter,Clear,11411
+IndiGo,Business,30kg,Autumn,Rainy,15439
+Akasa Air,Economy,30kg,Winter,Foggy,6834
+Air India,Economy,30kg,Summer,Clear,5194
+IndiGo,Business,25kg,Autumn,Rainy,8946
+SpiceJet,Business,20kg,Autumn,Rainy,11238
+Air India,Economy,15kg,Winter,Rainy,8511
+AirAsia India,Business,30kg,Spring,Foggy,9977
+IndiGo,Business,15kg,Winter,Foggy,6486
+AirAsia India,Business,30kg,Spring,Rainy,12236
+SpiceJet,Economy,20kg,Spring,Stormy,3041
+GoAir,Economy,25kg,Autumn,Foggy,4516
+Vistara,Business,20kg,Winter,Clear,9703
+GoAir,Business,20kg,Winter,Foggy,12966
+IndiGo,Business,15kg,Summer,Stormy,6868
+Air India,Business,25kg,Autumn,Rainy,11396
+Air India,Business,30kg,Summer,Clear,13588
+Air India,Economy,15kg,Autumn,Snowy,8511
+GoAir,Business,30kg,Winter,Foggy,10062
+IndiGo,Economy,15kg,Winter,Clear,4990
+Air India,Business,30kg,Summer,Windy,13840
+SpiceJet,Economy,20kg,Autumn,Windy,7561
+GoAir,Economy,25kg,Autumn,Foggy,6188
+Akasa Air,Economy,20kg,Spring,Snowy,6192
+SpiceJet,Business,20kg,Winter,Foggy,11492
+AirAsia India,Economy,20kg,Winter,Snowy,2983
+Vistara,Business,25kg,Summer,Clear,13884
+SpiceJet,Business,20kg,Summer,Windy,15653
+SpiceJet,Business,20kg,Winter,Snowy,13559
+GoAir,Business,15kg,Spring,Snowy,13243
+Vistara,Economy,20kg,Winter,Windy,5934
+Akasa Air,Economy,30kg,Spring,Clear,8376
+Air India,Economy,25kg,Winter,Foggy,9460
+SpiceJet,Business,25kg,Summer,Snowy,15194
+Air India,Business,15kg,Autumn,Windy,11130
+GoAir,Business,25kg,Autumn,Stormy,10123
+IndiGo,Economy,20kg,Autumn,Foggy,8081
+AirAsia India,Business,20kg,Summer,Stormy,11617
+SpiceJet,Economy,20kg,Winter,Foggy,9254
+Vistara,Economy,30kg,Autumn,Clear,9476
+IndiGo,Economy,15kg,Winter,Windy,6322
+SpiceJet,Economy,15kg,Summer,Clear,8334
+AirAsia India,Business,30kg,Summer,Snowy,9943
+Air India,Business,25kg,Spring,Snowy,5368
+SpiceJet,Business,30kg,Winter,Stormy,12131
+SpiceJet,Economy,20kg,Spring,Stormy,8522
+Vistara,Business,20kg,Summer,Foggy,7168
+Vistara,Business,20kg,Winter,Stormy,7037
+Akasa Air,Economy,30kg,Summer,Stormy,9448
+GoAir,Business,20kg,Winter,Clear,17461
+IndiGo,Economy,25kg,Spring,Snowy,7833
+Akasa Air,Business,25kg,Summer,Snowy,10371
+SpiceJet,Business,20kg,Winter,Stormy,5957
+SpiceJet,Business,25kg,Winter,Clear,8145
+AirAsia India,Economy,30kg,Autumn,Windy,7336
+Air India,Business,30kg,Spring,Snowy,9770
+Air India,Economy,30kg,Spring,Clear,4882
+Akasa Air,Economy,20kg,Summer,Clear,8061
+GoAir,Economy,15kg,Summer,Rainy,4573
+IndiGo,Economy,20kg,Winter,Snowy,5172
+GoAir,Economy,30kg,Summer,Snowy,7502
+Air India,Economy,30kg,Summer,Clear,5952
+GoAir,Business,20kg,Autumn,Clear,17005
+SpiceJet,Business,20kg,Summer,Snowy,14765
+IndiGo,Business,30kg,Summer,Stormy,9275
+AirAsia India,Economy,20kg,Spring,Stormy,9437
+Akasa Air,Business,30kg,Winter,Foggy,11152
+Akasa Air,Economy,30kg,Autumn,Stormy,6738
+Air India,Economy,25kg,Winter,Stormy,5564
+AirAsia India,Economy,25kg,Summer,Foggy,4729
+SpiceJet,Business,30kg,Autumn,Rainy,13469
+SpiceJet,Economy,25kg,Winter,Foggy,4818
+Air India,Business,25kg,Winter,Rainy,14101
+IndiGo,Business,15kg,Autumn,Clear,9603
+Air India,Economy,20kg,Spring,Stormy,4439
+IndiGo,Economy,20kg,Spring,Clear,5196
+Air India,Economy,15kg,Autumn,Stormy,7068
+Vistara,Economy,30kg,Summer,Clear,6688
+Air India,Economy,25kg,Winter,Snowy,8680
+Vistara,Business,30kg,Winter,Snowy,11055
+IndiGo,Economy,20kg,Autumn,Rainy,7820
+SpiceJet,Business,20kg,Winter,Foggy,7591
+GoAir,Economy,30kg,Winter,Foggy,7264
+GoAir,Business,25kg,Winter,Snowy,12725
+SpiceJet,Economy,30kg,Spring,Clear,6174
+GoAir,Economy,20kg,Autumn,Stormy,6613
+Akasa Air,Economy,25kg,Spring,Rainy,5357
+Vistara,Business,30kg,Autumn,Rainy,6808
+GoAir,Business,20kg,Autumn,Foggy,11472
+AirAsia India,Economy,30kg,Spring,Windy,4400
+SpiceJet,Business,15kg,Summer,Stormy,8763
+AirAsia India,Business,15kg,Autumn,Foggy,13134
+GoAir,Business,25kg,Autumn,Snowy,12011
+IndiGo,Business,25kg,Autumn,Foggy,5451
+GoAir,Business,25kg,Autumn,Foggy,13516
+Vistara,Business,15kg,Spring,Rainy,18611
+AirAsia India,Business,30kg,Summer,Foggy,8337
+SpiceJet,Economy,30kg,Autumn,Foggy,4960
+AirAsia India,Business,20kg,Summer,Windy,7308
+Vistara,Business,15kg,Winter,Foggy,6923
+SpiceJet,Economy,20kg,Spring,Stormy,4886
+Air India,Business,15kg,Summer,Stormy,6090
+GoAir,Business,30kg,Autumn,Clear,17492
+IndiGo,Economy,25kg,Summer,Clear,7668
+AirAsia India,Economy,15kg,Summer,Rainy,9565
+SpiceJet,Economy,25kg,Spring,Stormy,8845
+GoAir,Business,20kg,Summer,Clear,9171
+AirAsia India,Business,30kg,Spring,Clear,12161
+IndiGo,Economy,30kg,Summer,Rainy,6478
+AirAsia India,Economy,25kg,Autumn,Snowy,6475
+Akasa Air,Business,15kg,Winter,Snowy,11114
+SpiceJet,Economy,20kg,Summer,Clear,7269
+GoAir,Business,20kg,Summer,Foggy,14174
+Air India,Economy,25kg,Autumn,Rainy,4999
+SpiceJet,Economy,20kg,Winter,Foggy,5280
+AirAsia India,Business,25kg,Autumn,Stormy,7606
+IndiGo,Economy,20kg,Winter,Snowy,7506
+Air India,Economy,30kg,Summer,Windy,6706
+IndiGo,Economy,25kg,Autumn,Rainy,7613
+Vistara,Economy,20kg,Autumn,Windy,8981
+IndiGo,Business,25kg,Summer,Snowy,11374
+SpiceJet,Business,15kg,Summer,Windy,7824
+Akasa Air,Economy,20kg,Spring,Foggy,7553
+SpiceJet,Business,30kg,Winter,Windy,15130
+Air India,Business,15kg,Spring,Clear,8710
+GoAir,Business,15kg,Summer,Rainy,6282
+AirAsia India,Economy,15kg,Summer,Rainy,9705
+IndiGo,Economy,30kg,Winter,Foggy,5324
+IndiGo,Business,25kg,Autumn,Clear,13905
+Air India,Business,20kg,Spring,Stormy,10835
+AirAsia India,Economy,15kg,Winter,Windy,7949
+SpiceJet,Business,25kg,Summer,Stormy,5933
+GoAir,Business,30kg,Winter,Windy,17501
+IndiGo,Business,15kg,Autumn,Rainy,14011
+SpiceJet,Business,25kg,Autumn,Clear,13885
+Air India,Economy,30kg,Autumn,Rainy,5014
+Akasa Air,Economy,15kg,Summer,Stormy,5833
+AirAsia India,Business,15kg,Winter,Clear,8311
+SpiceJet,Economy,30kg,Winter,Windy,5216
+AirAsia India,Economy,25kg,Spring,Snowy,8604
+SpiceJet,Economy,15kg,Autumn,Snowy,6185
+Vistara,Business,20kg,Summer,Clear,7360
+Vistara,Business,25kg,Summer,Foggy,15285
+Air India,Economy,30kg,Autumn,Foggy,4813
+AirAsia India,Economy,20kg,Summer,Clear,4232
+AirAsia India,Business,20kg,Spring,Clear,14013
+IndiGo,Economy,15kg,Winter,Stormy,7201
+GoAir,Economy,25kg,Autumn,Rainy,4925
+GoAir,Economy,25kg,Summer,Stormy,5943
+SpiceJet,Business,25kg,Autumn,Clear,6508
+Akasa Air,Business,20kg,Winter,Stormy,11429
+IndiGo,Economy,25kg,Autumn,Windy,6258
+SpiceJet,Business,30kg,Autumn,Rainy,13829
+AirAsia India,Economy,25kg,Winter,Rainy,4327
+Air India,Business,15kg,Winter,Foggy,12001
+IndiGo,Business,25kg,Winter,Clear,5803
+AirAsia India,Economy,20kg,Summer,Windy,5549
+GoAir,Economy,20kg,Spring,Snowy,4241
+GoAir,Economy,25kg,Summer,Windy,5188
+Air India,Business,20kg,Winter,Rainy,13582
+GoAir,Business,30kg,Spring,Snowy,13279
+IndiGo,Economy,30kg,Summer,Stormy,4338
+GoAir,Business,30kg,Autumn,Stormy,13619
+GoAir,Economy,15kg,Winter,Snowy,7641
+IndiGo,Business,20kg,Spring,Snowy,7082
+SpiceJet,Economy,25kg,Winter,Stormy,6565
+Air India,Business,25kg,Spring,Foggy,12167
+Akasa Air,Business,25kg,Spring,Foggy,12851
+Akasa Air,Business,15kg,Autumn,Foggy,10056
+GoAir,Business,25kg,Spring,Snowy,11547
+SpiceJet,Economy,25kg,Summer,Windy,6618
+SpiceJet,Business,20kg,Spring,Snowy,7299
+AirAsia India,Business,30kg,Winter,Stormy,11358
+SpiceJet,Business,20kg,Autumn,Snowy,12409
+Air India,Economy,30kg,Spring,Windy,5494
+AirAsia India,Economy,25kg,Spring,Rainy,7433
+Akasa Air,Economy,30kg,Summer,Rainy,7767
+Akasa Air,Economy,30kg,Autumn,Windy,9456
+Air India,Economy,25kg,Autumn,Rainy,5737
+IndiGo,Business,20kg,Winter,Snowy,6842
+GoAir,Economy,30kg,Autumn,Rainy,10248
+Air India,Economy,15kg,Autumn,Stormy,6618
+Air India,Economy,15kg,Winter,Snowy,3862
+GoAir,Economy,15kg,Summer,Clear,7286
+GoAir,Business,30kg,Winter,Windy,6984
+Akasa Air,Economy,30kg,Autumn,Snowy,8035
+Vistara,Business,25kg,Summer,Clear,9465
+Air India,Business,15kg,Summer,Snowy,8091
+Air India,Business,25kg,Spring,Foggy,11264
+GoAir,Economy,20kg,Spring,Clear,4991
+SpiceJet,Economy,15kg,Autumn,Snowy,5352
+AirAsia India,Economy,25kg,Winter,Clear,5271
+IndiGo,Economy,20kg,Spring,Clear,6986
+Akasa Air,Economy,30kg,Winter,Snowy,7670
+Vistara,Economy,15kg,Spring,Clear,5175
+IndiGo,Economy,15kg,Winter,Stormy,5292
+AirAsia India,Economy,30kg,Autumn,Clear,5494
+IndiGo,Business,30kg,Autumn,Clear,10737
+Akasa Air,Business,30kg,Autumn,Foggy,12348
+AirAsia India,Economy,30kg,Winter,Windy,7533
+GoAir,Business,15kg,Winter,Clear,16118
+AirAsia India,Economy,20kg,Autumn,Foggy,5347
+SpiceJet,Business,25kg,Autumn,Clear,13813
+GoAir,Economy,20kg,Summer,Foggy,4679
+Vistara,Economy,30kg,Summer,Stormy,9259
+GoAir,Business,20kg,Autumn,Stormy,10456
+Akasa Air,Business,25kg,Spring,Foggy,7933
+IndiGo,Business,25kg,Summer,Clear,11701
+AirAsia India,Economy,15kg,Spring,Foggy,6524
+AirAsia India,Economy,25kg,Spring,Windy,10252
+SpiceJet,Economy,30kg,Spring,Foggy,6009
+Akasa Air,Economy,20kg,Winter,Clear,7996
+Vistara,Economy,20kg,Autumn,Rainy,3588
+GoAir,Business,30kg,Summer,Stormy,12704
+Air India,Business,30kg,Autumn,Stormy,11560
+Akasa Air,Economy,20kg,Winter,Windy,5116
+Air India,Business,20kg,Summer,Snowy,13165
+Vistara,Economy,15kg,Winter,Snowy,4191
+IndiGo,Economy,20kg,Autumn,Clear,6139
+AirAsia India,Business,20kg,Autumn,Foggy,8536
+AirAsia India,Business,30kg,Winter,Clear,13132
+SpiceJet,Economy,25kg,Summer,Stormy,4318
+Akasa Air,Economy,30kg,Autumn,Stormy,5989
+Akasa Air,Economy,25kg,Winter,Stormy,5274
+GoAir,Economy,20kg,Autumn,Foggy,4987
+GoAir,Economy,30kg,Spring,Rainy,5813
+GoAir,Business,25kg,Spring,Foggy,12513
+Air India,Economy,15kg,Winter,Foggy,5144
+Air India,Economy,15kg,Spring,Windy,4494
+Vistara,Economy,25kg,Spring,Foggy,6726
+Air India,Economy,25kg,Winter,Foggy,7542
+GoAir,Business,25kg,Spring,Clear,10964
+IndiGo,Business,30kg,Winter,Rainy,16251
+Akasa Air,Business,25kg,Summer,Clear,12138
+Akasa Air,Business,30kg,Winter,Foggy,7580
+SpiceJet,Economy,15kg,Autumn,Clear,10396
+SpiceJet,Business,15kg,Spring,Snowy,12930
+GoAir,Economy,25kg,Spring,Snowy,6976
+Vistara,Economy,15kg,Winter,Foggy,3524
+SpiceJet,Business,15kg,Autumn,Snowy,13564
+SpiceJet,Economy,20kg,Winter,Clear,10538
+AirAsia India,Economy,30kg,Summer,Windy,10020
+Vistara,Business,20kg,Summer,Foggy,8182
+IndiGo,Economy,15kg,Summer,Clear,6952
+Air India,Economy,25kg,Winter,Clear,6714
+Air India,Business,20kg,Spring,Stormy,10636
+IndiGo,Business,15kg,Spring,Snowy,5574
+Vistara,Economy,20kg,Autumn,Rainy,4478
+AirAsia India,Economy,30kg,Winter,Clear,7079
+SpiceJet,Business,15kg,Summer,Snowy,6590
+Akasa Air,Business,30kg,Summer,Windy,13921
+IndiGo,Economy,25kg,Spring,Clear,5206
+Akasa Air,Business,25kg,Summer,Rainy,11736
+Vistara,Economy,30kg,Spring,Windy,10032
+Vistara,Business,30kg,Autumn,Foggy,6320
+AirAsia India,Business,20kg,Summer,Stormy,14918
+AirAsia India,Economy,15kg,Autumn,Clear,8954
+Vistara,Business,30kg,Winter,Rainy,10325
+AirAsia India,Economy,15kg,Spring,Snowy,6129
+IndiGo,Economy,20kg,Summer,Snowy,8850
+AirAsia India,Economy,25kg,Summer,Snowy,4876
+IndiGo,Economy,20kg,Summer,Stormy,6321
+Vistara,Economy,15kg,Spring,Stormy,4478
+GoAir,Economy,30kg,Autumn,Stormy,6145
+SpiceJet,Economy,20kg,Spring,Stormy,4469
+GoAir,Business,30kg,Summer,Rainy,14525
+IndiGo,Business,15kg,Summer,Windy,15893
+SpiceJet,Business,30kg,Summer,Snowy,6460
+Akasa Air,Business,30kg,Summer,Snowy,8175
+Air India,Business,15kg,Autumn,Foggy,7227
+Vistara,Economy,15kg,Autumn,Stormy,4811
+Air India,Business,15kg,Spring,Foggy,13527
+Akasa Air,Business,25kg,Autumn,Rainy,7149
+SpiceJet,Economy,25kg,Autumn,Snowy,5132
+Akasa Air,Economy,25kg,Winter,Rainy,4098
+AirAsia India,Business,25kg,Winter,Foggy,9252
+Akasa Air,Economy,25kg,Autumn,Stormy,7371
+GoAir,Business,25kg,Autumn,Snowy,15244
+GoAir,Business,15kg,Summer,Windy,6246
+IndiGo,Business,25kg,Summer,Rainy,13564
+GoAir,Economy,20kg,Spring,Rainy,6671
+Air India,Economy,20kg,Summer,Windy,5885
+GoAir,Economy,25kg,Winter,Stormy,4718
+AirAsia India,Business,20kg,Autumn,Snowy,8608
+IndiGo,Economy,20kg,Spring,Clear,6221
+GoAir,Economy,15kg,Summer,Snowy,4571
+AirAsia India,Business,15kg,Winter,Stormy,6222
+SpiceJet,Business,25kg,Summer,Foggy,10672
+AirAsia India,Economy,15kg,Summer,Rainy,7136
+Vistara,Business,20kg,Spring,Windy,8633
+SpiceJet,Business,30kg,Summer,Foggy,14873
+GoAir,Economy,25kg,Summer,Windy,6183
+Akasa Air,Economy,25kg,Autumn,Rainy,3869
+Akasa Air,Economy,25kg,Autumn,Foggy,7753
+AirAsia India,Business,20kg,Spring,Windy,17786
+SpiceJet,Business,15kg,Winter,Windy,16843
+IndiGo,Economy,15kg,Spring,Foggy,7090
+SpiceJet,Business,15kg,Spring,Snowy,14653
+Air India,Business,15kg,Summer,Rainy,11076
+AirAsia India,Business,25kg,Winter,Foggy,11014
+SpiceJet,Economy,15kg,Autumn,Windy,4414
+Vistara,Business,30kg,Autumn,Clear,16387
+Vistara,Economy,30kg,Winter,Clear,4148
+IndiGo,Business,25kg,Summer,Foggy,6109
+Akasa Air,Economy,30kg,Autumn,Clear,7041
+IndiGo,Business,30kg,Autumn,Clear,11491
+IndiGo,Business,25kg,Winter,Foggy,14136
+Air India,Business,30kg,Winter,Stormy,14519
+AirAsia India,Business,15kg,Autumn,Foggy,11809
+SpiceJet,Economy,30kg,Winter,Foggy,4383
+Vistara,Economy,15kg,Spring,Windy,9507
+IndiGo,Economy,25kg,Spring,Rainy,5638
+SpiceJet,Economy,20kg,Winter,Windy,7782
+SpiceJet,Economy,15kg,Winter,Rainy,9048
+Air India,Business,25kg,Spring,Rainy,11516
+SpiceJet,Economy,25kg,Autumn,Windy,5916
+IndiGo,Business,15kg,Autumn,Foggy,10807
+IndiGo,Economy,20kg,Winter,Windy,5405
+Akasa Air,Business,30kg,Winter,Snowy,7097
+GoAir,Economy,30kg,Autumn,Snowy,8155
+IndiGo,Economy,20kg,Summer,Snowy,7441
+IndiGo,Economy,20kg,Summer,Clear,4843
+Akasa Air,Economy,15kg,Autumn,Foggy,3959
+Vistara,Economy,15kg,Summer,Foggy,3241
+Vistara,Business,25kg,Spring,Rainy,16781
+GoAir,Business,20kg,Autumn,Windy,10611
+Akasa Air,Economy,20kg,Spring,Clear,8541
+Akasa Air,Economy,20kg,Summer,Windy,6053
+Vistara,Business,30kg,Winter,Windy,8066
+SpiceJet,Business,25kg,Summer,Rainy,7560
+GoAir,Business,30kg,Winter,Clear,9858
+Air India,Business,25kg,Spring,Stormy,8909
+Air India,Economy,25kg,Winter,Snowy,9274
+SpiceJet,Economy,25kg,Autumn,Stormy,8096
+GoAir,Economy,30kg,Autumn,Snowy,5259
+Vistara,Business,15kg,Summer,Rainy,11723
+Air India,Business,25kg,Spring,Rainy,10090
+Akasa Air,Economy,15kg,Autumn,Windy,6404
+GoAir,Business,15kg,Winter,Rainy,15463
+Vistara,Business,20kg,Autumn,Windy,7154
+AirAsia India,Business,15kg,Winter,Snowy,11103
+IndiGo,Business,15kg,Autumn,Windy,12607
+IndiGo,Economy,30kg,Winter,Clear,8035
+GoAir,Economy,30kg,Summer,Stormy,5193
+AirAsia India,Economy,30kg,Winter,Clear,4210
+SpiceJet,Business,25kg,Spring,Clear,7078
+Vistara,Business,20kg,Summer,Windy,13489
+GoAir,Economy,25kg,Autumn,Snowy,4843
+AirAsia India,Business,20kg,Autumn,Windy,8385
+IndiGo,Business,15kg,Spring,Windy,11127
+IndiGo,Economy,30kg,Spring,Snowy,7145
+Akasa Air,Business,15kg,Winter,Foggy,8991
+Akasa Air,Economy,15kg,Summer,Windy,4318
+SpiceJet,Business,25kg,Summer,Windy,8361
+GoAir,Business,20kg,Summer,Stormy,9727
+SpiceJet,Economy,30kg,Winter,Rainy,7304
+Akasa Air,Business,15kg,Winter,Foggy,5995
+SpiceJet,Economy,15kg,Summer,Foggy,4970
+Vistara,Economy,20kg,Spring,Foggy,3510
+Vistara,Business,30kg,Spring,Clear,11327
+AirAsia India,Business,25kg,Winter,Clear,16475
+SpiceJet,Business,20kg,Summer,Clear,12972
+AirAsia India,Business,30kg,Winter,Windy,6159
+IndiGo,Business,30kg,Autumn,Foggy,5492
+AirAsia India,Business,20kg,Autumn,Stormy,5729
+Vistara,Business,25kg,Spring,Windy,16128
+GoAir,Economy,30kg,Spring,Snowy,5533
+Vistara,Business,30kg,Autumn,Windy,9870
+Akasa Air,Economy,20kg,Winter,Rainy,9732
+SpiceJet,Business,30kg,Winter,Clear,14688
+IndiGo,Business,15kg,Winter,Stormy,11607
+AirAsia India,Economy,20kg,Autumn,Stormy,3386
+Vistara,Economy,15kg,Summer,Windy,3308
+SpiceJet,Business,30kg,Autumn,Snowy,9145
+Air India,Economy,30kg,Spring,Snowy,5234
+AirAsia India,Business,30kg,Autumn,Stormy,9712
+Vistara,Economy,15kg,Autumn,Foggy,6677
+Vistara,Business,25kg,Summer,Stormy,13354
+Vistara,Economy,25kg,Spring,Stormy,7028
+GoAir,Economy,25kg,Autumn,Snowy,3707
+Vistara,Economy,25kg,Autumn,Foggy,3441
+AirAsia India,Economy,25kg,Autumn,Rainy,4389
+IndiGo,Economy,20kg,Summer,Stormy,9445
+IndiGo,Economy,15kg,Winter,Rainy,8573
+GoAir,Business,25kg,Winter,Windy,13733
+AirAsia India,Economy,30kg,Winter,Clear,5562
+GoAir,Business,25kg,Winter,Snowy,7755
+Air India,Economy,25kg,Autumn,Rainy,9801
+Akasa Air,Economy,30kg,Winter,Clear,8311
+Akasa Air,Economy,25kg,Summer,Windy,7540
+GoAir,Business,30kg,Winter,Snowy,13612
+AirAsia India,Economy,15kg,Autumn,Stormy,6077
+IndiGo,Economy,20kg,Spring,Foggy,5672
+Air India,Economy,20kg,Autumn,Foggy,7124
+AirAsia India,Economy,30kg,Winter,Windy,4669
+Akasa Air,Business,15kg,Summer,Stormy,12064
+Vistara,Economy,30kg,Autumn,Foggy,6927
+Akasa Air,Economy,25kg,Summer,Clear,3834
+SpiceJet,Economy,20kg,Winter,Clear,8229
+Vistara,Business,30kg,Spring,Windy,16120
+SpiceJet,Business,15kg,Winter,Snowy,15749
+IndiGo,Business,25kg,Winter,Foggy,9585
+SpiceJet,Business,30kg,Autumn,Stormy,12273
+Air India,Business,25kg,Autumn,Stormy,11693
+GoAir,Business,25kg,Autumn,Rainy,12117
+IndiGo,Business,30kg,Summer,Stormy,8425
+Air India,Economy,25kg,Winter,Stormy,7504
+SpiceJet,Economy,30kg,Spring,Windy,7076
+AirAsia India,Economy,20kg,Winter,Snowy,5985
+GoAir,Economy,15kg,Winter,Windy,5844
+Air India,Business,25kg,Summer,Rainy,12141
+Air India,Economy,15kg,Summer,Clear,4251
+Air India,Business,25kg,Summer,Snowy,9612
+Vistara,Economy,15kg,Autumn,Stormy,4284
+GoAir,Economy,25kg,Spring,Snowy,7324
+GoAir,Business,25kg,Summer,Clear,14303
+AirAsia India,Business,20kg,Winter,Foggy,6207
+AirAsia India,Economy,20kg,Summer,Stormy,5412
+Akasa Air,Economy,25kg,Winter,Clear,3815
+Akasa Air,Economy,25kg,Winter,Windy,8506
+AirAsia India,Business,25kg,Summer,Windy,18033
+AirAsia India,Economy,15kg,Autumn,Foggy,5236
+Vistara,Economy,25kg,Winter,Windy,8042
+GoAir,Economy,15kg,Spring,Stormy,9215
+Vistara,Economy,30kg,Winter,Foggy,6492
+SpiceJet,Economy,20kg,Summer,Clear,9220
+IndiGo,Business,30kg,Autumn,Snowy,13422
+IndiGo,Economy,20kg,Winter,Rainy,7255
+AirAsia India,Business,20kg,Autumn,Windy,8142
+GoAir,Business,20kg,Summer,Clear,6657
+AirAsia India,Business,30kg,Winter,Stormy,6370
+GoAir,Economy,15kg,Spring,Windy,7588
+Akasa Air,Business,25kg,Summer,Rainy,7142
+IndiGo,Economy,20kg,Spring,Clear,7586
+Vistara,Economy,30kg,Winter,Foggy,5062
+Air India,Economy,30kg,Winter,Snowy,5460
+Akasa Air,Economy,30kg,Summer,Clear,7005
+SpiceJet,Economy,15kg,Winter,Rainy,3339
+Air India,Economy,15kg,Autumn,Foggy,5273
+SpiceJet,Economy,20kg,Spring,Snowy,7703
+Akasa Air,Economy,20kg,Autumn,Foggy,5200
+GoAir,Economy,15kg,Autumn,Clear,9118
+Vistara,Economy,20kg,Summer,Clear,4419
+Air India,Economy,20kg,Autumn,Windy,6986
+GoAir,Economy,15kg,Summer,Stormy,6405
+Air India,Business,20kg,Spring,Clear,9658
+IndiGo,Business,30kg,Autumn,Stormy,14983
+AirAsia India,Business,25kg,Spring,Snowy,10212
+IndiGo,Business,25kg,Summer,Foggy,14229
+Akasa Air,Economy,15kg,Autumn,Foggy,4099
+GoAir,Business,30kg,Autumn,Rainy,18915
+GoAir,Economy,15kg,Summer,Clear,9078
+SpiceJet,Business,15kg,Summer,Windy,18128
+Air India,Business,15kg,Summer,Clear,15301
+Vistara,Business,15kg,Spring,Stormy,10708
+AirAsia India,Business,15kg,Winter,Clear,8026
+GoAir,Economy,25kg,Spring,Rainy,6298
+SpiceJet,Economy,25kg,Spring,Rainy,3483
+Akasa Air,Business,20kg,Autumn,Clear,15869
+SpiceJet,Economy,30kg,Autumn,Clear,5701
+AirAsia India,Business,25kg,Winter,Foggy,8647
+GoAir,Economy,15kg,Winter,Windy,9271
+SpiceJet,Business,15kg,Spring,Clear,13737
+Akasa Air,Business,20kg,Summer,Rainy,18069
+IndiGo,Business,20kg,Spring,Stormy,8573
+Vistara,Economy,15kg,Spring,Rainy,9265
+AirAsia India,Business,30kg,Winter,Clear,11867
+Akasa Air,Business,25kg,Autumn,Clear,13901
+GoAir,Business,15kg,Autumn,Clear,15339
+AirAsia India,Business,30kg,Autumn,Clear,13357
+IndiGo,Business,30kg,Autumn,Rainy,7185
+IndiGo,Business,25kg,Spring,Stormy,6875
+Akasa Air,Economy,30kg,Summer,Foggy,4895
+SpiceJet,Economy,20kg,Autumn,Snowy,5001
+IndiGo,Business,25kg,Winter,Foggy,14652
+AirAsia India,Business,15kg,Spring,Windy,10126
+Vistara,Business,20kg,Summer,Windy,7866
+SpiceJet,Business,25kg,Winter,Foggy,8786
+SpiceJet,Economy,25kg,Summer,Windy,6802
+IndiGo,Business,15kg,Summer,Foggy,10518
+IndiGo,Economy,25kg,Summer,Stormy,6809
+AirAsia India,Economy,30kg,Autumn,Clear,8460
+SpiceJet,Economy,15kg,Spring,Clear,5167
+AirAsia India,Business,15kg,Autumn,Stormy,5577
+Air India,Economy,20kg,Winter,Snowy,4859
+AirAsia India,Business,15kg,Winter,Windy,10753
+SpiceJet,Business,15kg,Autumn,Windy,7331
+GoAir,Business,20kg,Winter,Snowy,16720
+GoAir,Business,30kg,Winter,Foggy,9624
+Vistara,Economy,20kg,Winter,Foggy,5924
+IndiGo,Business,25kg,Spring,Foggy,10244
+SpiceJet,Business,15kg,Spring,Windy,7838
+GoAir,Business,20kg,Winter,Snowy,8916
+Air India,Economy,15kg,Winter,Rainy,5421
+GoAir,Economy,30kg,Winter,Clear,6088
+AirAsia India,Business,25kg,Autumn,Snowy,15468
+Air India,Economy,30kg,Summer,Snowy,4564
+IndiGo,Business,30kg,Summer,Foggy,8551
+IndiGo,Business,25kg,Summer,Snowy,10315
+GoAir,Economy,15kg,Winter,Foggy,7151
+IndiGo,Economy,30kg,Autumn,Snowy,4017
+SpiceJet,Economy,30kg,Autumn,Foggy,5072
+Akasa Air,Economy,25kg,Spring,Clear,9885
+SpiceJet,Business,15kg,Summer,Stormy,7283
+SpiceJet,Economy,20kg,Winter,Snowy,7999
+Vistara,Business,30kg,Spring,Foggy,10326
+Akasa Air,Business,15kg,Autumn,Foggy,8475
+AirAsia India,Business,15kg,Spring,Snowy,9227
+Akasa Air,Business,20kg,Spring,Stormy,13412
+Air India,Economy,30kg,Summer,Windy,5203
+AirAsia India,Economy,20kg,Spring,Snowy,5897
+GoAir,Economy,20kg,Autumn,Stormy,6164
+GoAir,Economy,20kg,Winter,Windy,8564
+Air India,Economy,20kg,Summer,Snowy,7271
+GoAir,Business,15kg,Autumn,Snowy,6573
+GoAir,Economy,25kg,Winter,Foggy,7002
+AirAsia India,Economy,25kg,Spring,Foggy,8511
+AirAsia India,Economy,15kg,Spring,Windy,6323
+Air India,Economy,25kg,Summer,Snowy,8768
+SpiceJet,Business,30kg,Autumn,Stormy,11803
+Vistara,Business,25kg,Winter,Foggy,13863
+AirAsia India,Economy,25kg,Summer,Foggy,8295
+Air India,Business,30kg,Autumn,Windy,10088
+Vistara,Economy,25kg,Winter,Rainy,8272
+Akasa Air,Business,20kg,Spring,Foggy,13619
+GoAir,Economy,15kg,Winter,Windy,6248
+Vistara,Economy,30kg,Summer,Windy,3725
+IndiGo,Business,25kg,Summer,Clear,9307
+IndiGo,Business,15kg,Spring,Clear,18691
+GoAir,Business,25kg,Winter,Snowy,9991
+GoAir,Economy,30kg,Winter,Stormy,5923
+Vistara,Business,15kg,Winter,Snowy,9721
+Akasa Air,Business,20kg,Spring,Clear,6890
+GoAir,Economy,15kg,Winter,Windy,3705
+Vistara,Economy,30kg,Summer,Snowy,3399
+IndiGo,Business,15kg,Autumn,Foggy,10751
+GoAir,Business,25kg,Winter,Snowy,13294
+Vistara,Business,30kg,Winter,Rainy,7336
+SpiceJet,Business,30kg,Spring,Clear,10796
+Akasa Air,Economy,20kg,Autumn,Clear,7216
+Akasa Air,Economy,15kg,Spring,Windy,4870
+AirAsia India,Economy,30kg,Spring,Foggy,4629
+Akasa Air,Economy,30kg,Winter,Snowy,6086
+AirAsia India,Business,30kg,Autumn,Clear,13859
+Air India,Business,15kg,Winter,Rainy,10711
+Air India,Business,25kg,Summer,Windy,5886
+Vistara,Economy,20kg,Spring,Clear,5579
+Air India,Business,20kg,Summer,Rainy,10181
+IndiGo,Business,25kg,Summer,Clear,11791
+IndiGo,Business,30kg,Winter,Foggy,9498
+Akasa Air,Economy,20kg,Autumn,Clear,3114
+Air India,Economy,15kg,Summer,Windy,8574
+SpiceJet,Economy,20kg,Summer,Stormy,6251
+Akasa Air,Economy,25kg,Spring,Foggy,5248
+GoAir,Business,25kg,Spring,Rainy,13713
+SpiceJet,Business,30kg,Spring,Windy,9743
+AirAsia India,Business,20kg,Winter,Rainy,8454
+GoAir,Business,30kg,Winter,Stormy,12991
+SpiceJet,Economy,20kg,Winter,Windy,7674
+Vistara,Economy,15kg,Autumn,Foggy,8187
+Air India,Economy,20kg,Spring,Rainy,6457
+Air India,Business,20kg,Autumn,Stormy,9360
+Air India,Economy,25kg,Autumn,Foggy,8392
+AirAsia India,Economy,30kg,Summer,Rainy,4807
+IndiGo,Economy,25kg,Summer,Clear,7753
+Akasa Air,Economy,20kg,Autumn,Snowy,6724
+SpiceJet,Economy,25kg,Spring,Stormy,6033
+AirAsia India,Economy,25kg,Spring,Windy,3536
+Air India,Economy,15kg,Winter,Foggy,7459
+Vistara,Business,25kg,Winter,Windy,7036
+GoAir,Business,15kg,Spring,Foggy,7897
+IndiGo,Business,25kg,Winter,Snowy,16645
+GoAir,Business,25kg,Winter,Clear,12553
+IndiGo,Economy,20kg,Winter,Stormy,8841
+Akasa Air,Economy,20kg,Winter,Clear,5326
+GoAir,Business,30kg,Summer,Foggy,5111
+IndiGo,Economy,30kg,Autumn,Stormy,5501
+Vistara,Economy,30kg,Winter,Clear,8573
+Akasa Air,Economy,30kg,Winter,Stormy,5393
+SpiceJet,Business,20kg,Winter,Clear,14232
+Air India,Business,30kg,Autumn,Foggy,7929
+Air India,Economy,20kg,Autumn,Windy,9729
+IndiGo,Economy,20kg,Autumn,Rainy,9633
+Akasa Air,Economy,15kg,Spring,Windy,5344
+Vistara,Economy,20kg,Summer,Stormy,6561
+SpiceJet,Business,25kg,Spring,Snowy,7812
+Akasa Air,Economy,25kg,Summer,Clear,4643
+GoAir,Business,30kg,Summer,Rainy,14669
+Akasa Air,Business,30kg,Winter,Clear,13265
+AirAsia India,Economy,25kg,Autumn,Snowy,6161
+IndiGo,Economy,30kg,Spring,Windy,7245
+AirAsia India,Business,20kg,Winter,Rainy,10361
+GoAir,Economy,20kg,Autumn,Windy,4241
+Air India,Economy,25kg,Winter,Snowy,9357
+IndiGo,Economy,30kg,Winter,Snowy,4546
+AirAsia India,Economy,25kg,Summer,Clear,4210
+Akasa Air,Economy,15kg,Winter,Snowy,6875
+AirAsia India,Economy,15kg,Autumn,Clear,7491
+Vistara,Business,15kg,Summer,Windy,9199
+Vistara,Business,25kg,Spring,Foggy,13577
+SpiceJet,Business,25kg,Spring,Windy,16549
+Akasa Air,Economy,15kg,Summer,Stormy,5424
+SpiceJet,Economy,20kg,Summer,Windy,5389
+Air India,Business,15kg,Spring,Foggy,9252
+Air India,Business,20kg,Summer,Rainy,14149
+GoAir,Business,15kg,Spring,Clear,8044
+Vistara,Economy,20kg,Summer,Windy,6824
+IndiGo,Business,15kg,Summer,Snowy,14534
+Vistara,Economy,30kg,Autumn,Foggy,3588
+AirAsia India,Economy,25kg,Autumn,Stormy,5336
+Vistara,Economy,20kg,Winter,Rainy,7191
+AirAsia India,Economy,20kg,Spring,Foggy,4889
+Akasa Air,Economy,30kg,Summer,Clear,4137
+AirAsia India,Economy,15kg,Winter,Windy,3789
